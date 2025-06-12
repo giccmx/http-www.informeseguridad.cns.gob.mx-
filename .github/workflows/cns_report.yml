@@ -2,11 +2,11 @@ name: Ejecutar Script Seguridad CNS
 
 on:
   schedule:
-    - cron: '0 18 * * 1-5'  # Ejecutar de lunes a viernes a las 12PM CDMX
+    - cron: '0 18 * * 1-5' 
   workflow_dispatch:
 
 permissions:
-  contents: write  # 👈 Esto da permiso para hacer commit/push
+  contents: write
 
 jobs:
   ejecutar:
@@ -29,10 +29,10 @@ jobs:
       - name: Ejecutar script
         run: python main.py
 
-      - name: Subir archivo last_date.txt actualizado
-        uses: EndBug/add-and-commit@v9
-        with:
-          author_name: Gustavo I. Castañeda
-          author_email: github-actions@github.com
-          message: "Actualización de last_date.txt automática"
-          add: "last_date.txt"
+      - name: Commit y push del archivo last_date.txt actualizado
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add last_date.txt
+          git diff --cached --quiet && echo "No hay cambios para commitear" || git commit -m "Actualización de last_date.txt automática"
+          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
