@@ -1,4 +1,4 @@
-name: Ejecutar Script Seguridad CNS
+name: ETL informeseguridadcnsgobmx
 
 on:
   schedule:
@@ -40,7 +40,7 @@ jobs:
           if git diff --cached --quiet; then
             echo "No hay cambios para hacer commit."
           else
-            git commit -m "Actualizar fecha procesada y log del scraping"
+            git commit -m "Visualización de tabla de datos en texto plano"
             git push origin HEAD:${{ github.ref_name }}
           fi
         env:
