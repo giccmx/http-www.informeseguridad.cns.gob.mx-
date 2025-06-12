@@ -43,10 +43,10 @@ The resulting dataset is version-controlled and ready for:
 
 Feel free to reach out or follow me for more data-driven civic tech tools:
 
-✉️ Correo Electrónico: [abadejos.arenosa_8q@icloud.com]
+✉️ Email: [abadejos.arenosa_8q@icloud.com]
 💼 LinkedIn: [https://www.linkedin.com/in/giccmx]
 🐦 Twitter/X: [https://x.com/giccmx]
-🌐 Sitio Web: [https://gicc.mx]
+🌐 Website: [https://gicc.mx]
 🗞️ Newsletter: [https://gicc.mx/newsletter]
 
 ---
