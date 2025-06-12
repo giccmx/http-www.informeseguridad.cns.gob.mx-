@@ -69,4 +69,3 @@ unit_test.py
 test_post.py
 test/
 *.db
-*.log

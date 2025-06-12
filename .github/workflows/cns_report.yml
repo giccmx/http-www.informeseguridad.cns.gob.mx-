@@ -29,10 +29,20 @@ jobs:
       - name: Ejecutar script
         run: python main.py
 
-      - name: Commit y push del archivo last_date.txt actualizado
+      - name: Configurar Git para push seguro
         run: |
-          git config user.name "Gustavo I. Castañeda"
-          git config user.email "gustavo@sasser.com.mx"
-          git add last_date.txt
-          git diff --cached --quiet && echo "No hay cambios para commitear" || git commit -m "Actualización de last_date.txt automática"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Hacer commit y push de cambios (fecha y log)
+        run: |
+          git add ultima_fecha.txt *.log
+          if git diff --cached --quiet; then
+            echo "No hay cambios para hacer commit."
+          else
+            git commit -m "Actualizar fecha procesada y log del scraping"
+            git push origin HEAD:${{ github.ref_name }}
+          fi
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
