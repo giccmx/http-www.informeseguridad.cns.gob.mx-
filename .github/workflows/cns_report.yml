@@ -1,0 +1,35 @@
+name: Ejecutar Script Seguridad CNS
+
+on:
+  schedule:
+    - cron: '0 12 * * 1-5'  
+  workflow_dispatch:
+
+jobs:
+  ejecutar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Clonar repositorio
+        uses: actions/checkout@v3
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+
+      - name: Instalar dependencias
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Ejecutar script
+        run: python main.py
+
+      - name: Subir archivo last_date.txt actualizado
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: Gustavo I. Castañeda
+          author_email: github-actions@github.com
+          message: "Actualización de last_date.txt automática"
+          add: "last_date.txt"
