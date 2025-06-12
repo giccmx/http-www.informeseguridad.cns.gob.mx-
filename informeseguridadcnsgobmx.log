@@ -1,11 +1,11 @@
-2025-06-12 22:19:59 - INFO - ****************************************************************************************************
-2025-06-12 22:20:03 - INFO - 11 de junio de 2025
-2025-06-12 22:20:03 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
-2025-06-12 22:20:03 - WARNING - Cannot set gray non-stroke color because /'P31' is an invalid float value
-2025-06-12 22:20:03 - INFO - Total de homicidios del día: 47
-2025-06-12 22:20:03 - INFO - Total de Entidades que reportaron homicidio: 19
-2025-06-12 22:20:03 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_11062025_v2.pdf
-2025-06-12 22:20:03 - INFO -            Entidades  recuento
+2025-06-12 23:01:11 - INFO - ****************************************************************************************************
+2025-06-12 23:01:15 - INFO - 11 de junio de 2025
+2025-06-12 23:01:15 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
+2025-06-12 23:01:15 - WARNING - Cannot set gray non-stroke color because /'P31' is an invalid float value
+2025-06-12 23:01:15 - INFO - Total de homicidios del día: 47
+2025-06-12 23:01:15 - INFO - Total de Entidades que reportaron homicidio: 19
+2025-06-12 23:01:15 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_11062025_v2.pdf
+2025-06-12 23:01:15 - INFO -            Entidades  recuento
 0   Estado de México         5
 1    Baja California         5
 2            Morelos         4
@@ -25,5 +25,5 @@
 16        Tamaulipas         1
 17            Oaxaca         1
 18      Quintana Roo         1
-2025-06-12 22:20:03 - INFO - ****************************************************************************************************
-2025-06-12 22:20:03 - INFO - Tiempo de ejecución: 00:00:00:04
+2025-06-12 23:01:15 - INFO - ****************************************************************************************************
+2025-06-12 23:01:15 - INFO - Tiempo de ejecución: 00:00:00:04
