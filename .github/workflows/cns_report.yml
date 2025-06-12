@@ -31,8 +31,9 @@ jobs:
 
       - name: Commit y push del archivo last_date.txt actualizado
         run: |
-          git config user.name "github-actions"
-          git config user.email "github-actions@github.com"
-          git add last_date.txt
-          git diff --cached --quiet && echo "No hay cambios para commitear" || git commit -m "Actualización de last_date.txt automática"
-          git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add last_date.txt
+            git diff --cached --quiet && echo "No hay cambios para commitear" || git commit -m "Actualización de last_date.txt automática"
+            git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }} HEAD:${{ github.ref_name }}
+
