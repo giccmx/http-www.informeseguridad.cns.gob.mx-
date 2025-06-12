@@ -2,8 +2,11 @@ name: Ejecutar Script Seguridad CNS
 
 on:
   schedule:
-    - cron: '0 12 * * 1-5'  
+    - cron: '0 18 * * 1-5'  # Ejecutar de lunes a viernes a las 12PM CDMX
   workflow_dispatch:
+
+permissions:
+  contents: write  # 👈 Esto da permiso para hacer commit/push
 
 jobs:
   ejecutar:
@@ -16,7 +19,7 @@ jobs:
       - name: Configurar Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.11'
+          python-version: '3.10'
 
       - name: Instalar dependencias
         run: |
