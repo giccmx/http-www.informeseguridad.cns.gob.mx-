@@ -43,11 +43,11 @@ The resulting dataset is version-controlled and ready for:
 
 Feel free to reach out or follow me for more data-driven civic tech tools:
 
-✉️ Email: [your_email@example.com]
-💼 LinkedIn: [https://linkedin.com/in/your_profile]
-🐦 Twitter/X: [https://x.com/your_handle]
-🌐 Website: [https://yourdomain.com]
-🗞️ Newsletter: [https://yourdomain.com/newsletter]
+✉️ Correo Electrónico: [abadejos.arenosa_8q@icloud.com]
+💼 LinkedIn: [https://www.linkedin.com/in/giccmx]
+🐦 Twitter/X: [https://x.com/giccmx]
+🌐 Sitio Web: [https://gicc.mx]
+🗞️ Newsletter: [https://gicc.mx/newsletter]
 
 ---
 
@@ -111,8 +111,8 @@ Este proyecto está bajo la licencia MIT. Puedes reutilizarlo con fines personal
 
 No dudes en comunicarte conmigo o seguirme para obtener más herramientas de tecnología cívica basadas en datos:
 
-✉️ Correo Electrónico: [your_email@example.com]
-💼 LinkedIn: [https://linkedin.com/in/your_profile]
-🐦 Twitter/X: [https://x.com/your_handle]
-🌐 Sitio Web: [https://yourdomain.com]
-🗞️ Newsletter: [https://yourdomain.com/newsletter]
+✉️ Correo Electrónico: [abadejos.arenosa_8q@icloud.com]
+💼 LinkedIn: [https://www.linkedin.com/in/giccmx]
+🐦 Twitter/X: [https://x.com/giccmx]
+🌐 Sitio Web: [https://gicc.mx]
+🗞️ Newsletter: [https://gicc.mx/newsletter]
