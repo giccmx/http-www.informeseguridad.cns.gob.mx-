@@ -36,7 +36,7 @@ jobs:
 
       - name: Hacer commit y push de cambios (fecha y log)
         run: |
-          git add ultima_fecha.txt *.log
+          git add *.txt *.log
           if git diff --cached --quiet; then
             echo "No hay cambios para hacer commit."
           else
