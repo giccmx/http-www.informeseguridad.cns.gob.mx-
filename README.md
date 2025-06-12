@@ -2,7 +2,7 @@
 
 **EN | English**
 
-This project automates the daily extraction, transformation, and loading (ETL) of homicide data in Mexico, directly from the official government website [informeseguridad.cns.gob.mx](http://www.informeseguridad.cns.gob.mx/). It uses a Python-based pipeline powered by **requests**, and **pdfplumber** to extract and process data from dynamically generated content and PDF files. The entire process runs inside a Docker container and is scheduled daily via GitHub Actions.
+This project automates the daily extraction, transformation, and loading (ETL) of homicide data in Mexico, directly from the official government website [informeseguridad.cns.gob.mx](http://www.informeseguridad.cns.gob.mx/). It uses a Python-based pipeline powered by **requests**, and **pdfplumber** to extract and process data from dynamically generated content and PDF files. 
 
 ## 🚀 Purpose
 
@@ -48,12 +48,14 @@ Feel free to reach out or follow me for more data-driven civic tech tools:
 🐦 Twitter/X: [https://x.com/giccmx]
 🌐 Website: [https://gicc.mx]
 🗞️ Newsletter: [https://gicc.mx/newsletter]
+💵 Donations: [https://gicc.mx/Donations]
+▶️ YouTube: [https://www.youtube.com/@giccmx]
 
 ---
 
 **ES | Español**
 
-Este proyecto automatiza diariamente la extracción, transformación y carga (ETL) de datos sobre homicidios en México, directamente desde el sitio oficial del gobierno [informeseguridad.cns.gob.mx](http://www.informeseguridad.cns.gob.mx/). El proceso usa **requests** y **pdfplumber** en Python para interactuar con el sitio web, descargar los reportes PDF y extraer tablas estructuradas. Todo corre en un contenedor Docker y se ejecuta automáticamente cada día usando GitHub Actions.
+Este proyecto automatiza diariamente la extracción, transformación y carga (ETL) de datos sobre homicidios en México, directamente desde el sitio oficial del gobierno [informeseguridad.cns.gob.mx](http://www.informeseguridad.cns.gob.mx/). El proceso usa **requests** y **pdfplumber** en Python para interactuar con el sitio web, descargar los reportes PDF y extraer tablas estructuradas. 
 
 ## 🚀 Propósito
 
@@ -98,12 +100,6 @@ El dataset resultante queda controlado por versiones y puede usarse para:
 
 ---
 
-## 📄 Licencia
-
-Este proyecto está bajo la licencia MIT. Puedes reutilizarlo con fines personales o comerciales, siempre que respetes los términos de la licencia.
-
----
-
 > Proyecto con fines cívicos y de investigación. No está afiliado oficialmente a ninguna institución gubernamental.
 
 
@@ -111,8 +107,10 @@ Este proyecto está bajo la licencia MIT. Puedes reutilizarlo con fines personal
 
 No dudes en comunicarte conmigo o seguirme para obtener más herramientas de tecnología cívica basadas en datos:
 
-✉️ Correo Electrónico: [abadejos.arenosa_8q@icloud.com]
+✉️ Email: [abadejos.arenosa_8q@icloud.com]
 💼 LinkedIn: [https://www.linkedin.com/in/giccmx]
 🐦 Twitter/X: [https://x.com/giccmx]
-🌐 Sitio Web: [https://gicc.mx]
+🌐 Website: [https://gicc.mx]
 🗞️ Newsletter: [https://gicc.mx/newsletter]
+💵 Donations: [https://gicc.mx/Donations]
+▶️ YouTube: [https://www.youtube.com/@giccmx]
