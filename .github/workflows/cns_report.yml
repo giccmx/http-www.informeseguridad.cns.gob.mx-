@@ -15,6 +15,8 @@ jobs:
     steps:
       - name: Clonar repositorio
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0  # Necesario para permitir git pull
 
       - name: Configurar Python
         uses: actions/setup-python@v4
@@ -29,10 +31,14 @@ jobs:
       - name: Ejecutar script
         run: python main.py
 
-      - name: Configurar Git para push seguro
+      - name: Configurar Git
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Sincronizar con cambios remotos
+        run: |
+          git pull --rebase origin main
 
       - name: Hacer commit y push de cambios (fecha y log)
         run: |
@@ -41,8 +47,7 @@ jobs:
             echo "No hay cambios para hacer commit."
           else
             git commit -m "Visualización de tabla de datos en texto plano"
-            git push origin HEAD:${{ github.ref_name }}
+            git push origin main
           fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
