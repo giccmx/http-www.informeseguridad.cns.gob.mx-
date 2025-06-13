@@ -1,0 +1,28 @@
+2025-06-13 00:33:40 - INFO - ****************************************************************************************************
+2025-06-13 00:33:43 - INFO - 11 de junio de 2025
+2025-06-13 00:33:43 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
+2025-06-13 00:33:43 - INFO - Total de homicidios del día: 47
+2025-06-13 00:33:43 - INFO - Total de Entidades que reportaron homicidio: 19
+2025-06-13 00:33:43 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_11062025_v2.pdf
+2025-06-13 00:33:43 - INFO -            Entidades  recuento
+0   Estado de México         5
+1    Baja California         5
+2            Morelos         4
+3          Michoacán         4
+4         Guanajuato         4
+5          Chihuahua         3
+6             Sonora         3
+7           Guerrero         2
+8            Sinaloa         2
+9             Puebla         2
+10        Nuevo León         2
+11          Veracruz         2
+12           Jalisco         2
+13            Colima         2
+14  Ciudad de México         1
+15           Chiapas         1
+16        Tamaulipas         1
+17            Oaxaca         1
+18      Quintana Roo         1
+2025-06-13 00:33:43 - INFO - ****************************************************************************************************
+2025-06-13 00:33:43 - INFO - Tiempo de ejecución: 00:00:00:03
