@@ -113,7 +113,7 @@ def clean_log():
 
     string_a_eliminar = [
                         "WARNING - CropBox missing from /Page, defaulting to MediaBox", 
-                         "Cannot set gray non-stroke color because /'P17' is an invalid float value",
+                         "WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value",
                          "WARNING - Cannot set gray non-stroke color because /'P31' is an invalid float value"
                          ]
 
@@ -281,7 +281,7 @@ if __name__ == "__main__":
     filemode='w'
     )
 
-    logging.getLogger("pdfminer").setLevel(logging.WARNING)
+    logging.getLogger("pdfplumber").setLevel(logging.WARNING)
     logging.getLogger("selenium").setLevel(logging.WARNING)
     logging.getLogger("urllib3").setLevel(logging.WARNING)
     warnings.filterwarnings("ignore")
