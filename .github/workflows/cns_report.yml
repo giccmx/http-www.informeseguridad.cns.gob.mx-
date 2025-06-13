@@ -16,7 +16,7 @@ jobs:
       - name: Clonar repositorio
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0  
+          fetch-depth: 0  # Necesario para permitir git pull
 
       - name: Configurar Python
         uses: actions/setup-python@v4
@@ -36,13 +36,21 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: Limpiar archivos no rastreados (para evitar conflicto con pull)
+      - name: Agregar archivos antes del pull (para stash)
         run: |
-          git clean -fd
+          git add *.txt *.log || true
+
+      - name: Stash cambios para evitar conflicto con rebase
+        run: |
+          git stash
 
       - name: Sincronizar con cambios remotos
         run: |
           git pull --rebase origin main
+
+      - name: Restaurar cambios del stash
+        run: |
+          git stash pop || true
 
       - name: Hacer commit y push de cambios (fecha y log)
         run: |
