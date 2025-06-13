@@ -111,18 +111,25 @@ def clean_log():
 
     nombre_archivo = 'informeseguridadcnsgobmx.log'
 
-    string_a_eliminar = 'WARNING - CropBox missing from /Page, defaulting to MediaBox'
+    string_a_eliminar = [
+                        "WARNING - CropBox missing from /Page, defaulting to MediaBox", 
+                         "Cannot set gray non-stroke color because /'P17' is an invalid float value",
+                         "WARNING - Cannot set gray non-stroke color because /'P31' is an invalid float value"
+                         ]
 
     nombre_temp_archivo =  nombre_archivo + ".temp"
 
     try:
-        with open(nombre_archivo, 'r', encoding='utf-8') as archivo_original, \
-                open(nombre_temp_archivo, 'w', encoding='utf-8') as archivo_temporal:
-            
-            for linea in archivo_original:
+
+        for str in string_a_eliminar:
+
+            with open(nombre_archivo, 'r', encoding='utf-8') as archivo_original, \
+                    open(nombre_temp_archivo, 'w', encoding='utf-8') as archivo_temporal:
                 
-                if string_a_eliminar not in linea:
-                    archivo_temporal.write(linea)
+                for linea in archivo_original:
+                    
+                    if str not in linea:
+                        archivo_temporal.write(linea)
 
         
         shutil.move(nombre_temp_archivo, nombre_archivo)
