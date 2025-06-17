@@ -1,84 +1,29 @@
-2025-06-16 18:36:15 - INFO - ****************************************************************************************************
-2025-06-16 18:36:18 - INFO - 15 de junio de 2025
-2025-06-16 18:36:18 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
-2025-06-16 18:36:19 - INFO - Total de homicidios del día: 65
-2025-06-16 18:36:19 - INFO - Total de Entidades que reportaron homicidio: 19
-2025-06-16 18:36:19 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_15062025_v2.pdf
-2025-06-16 18:36:19 - INFO -            Entidades  recuento
-0            Sinaloa         9
-1    Baja California         8
-2          Chihuahua         7
-3         Nuevo León         6
-4   Estado de México         5
-5             Oaxaca         4
-6             Puebla         3
-7            Morelos         3
-8             Sonora         3
-9            Chiapas         2
-10        Guanajuato         2
-11          Guerrero         2
-12          Veracruz         2
-13           Jalisco         2
-14         Michoacán         2
-15      Quintana Roo         2
-16   San Luis Potosí         1
-17         Zacatecas         1
-18           Nayarit         1
-2025-06-16 18:36:19 - INFO - ****************************************************************************************************
-2025-06-16 18:36:19 - INFO - 14 de junio de 2025
-2025-06-16 18:36:19 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
-2025-06-16 18:36:19 - INFO - Total de homicidios del día: 51
-2025-06-16 18:36:19 - INFO - Total de Entidades que reportaron homicidio: 19
-2025-06-16 18:36:19 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_14062025_v2.pdf
-2025-06-16 18:36:19 - INFO -            Entidades  recuento
-0            Sinaloa         8
-1   Estado de México         4
-2         Nuevo León         4
-3          Chihuahua         4
-4         Guanajuato         4
-5           Guerrero         3
-6           Veracruz         3
-7            Chiapas         3
-8            Jalisco         3
-9            Tabasco         3
-10   Baja California         2
-11            Sonora         2
-12            Puebla         2
-13      Quintana Roo         1
-14        Tamaulipas         1
-15         Michoacán         1
-16          Coahuila         1
-17   San Luis Potosí         1
-18           Morelos         1
-2025-06-16 18:36:19 - INFO - ****************************************************************************************************
-2025-06-16 18:36:19 - INFO - 13 de junio de 2025
-2025-06-16 18:36:19 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
-2025-06-16 18:36:19 - INFO - Total de homicidios del día: 64
-2025-06-16 18:36:19 - INFO - Total de Entidades que reportaron homicidio: 22
-2025-06-16 18:36:19 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13062025_v2.pdf
-2025-06-16 18:36:19 - INFO -            Entidades  recuento
-0           Guerrero         7
-1         Nuevo León         6
-2    Baja California         6
-3           Veracruz         4
-4          Michoacán         4
-5   Estado de México         4
-6         Guanajuato         4
-7            Hidalgo         3
-8          Chihuahua         3
-9            Sinaloa         3
-10            Oaxaca         3
-11           Nayarit         2
-12            Puebla         2
-13           Morelos         2
-14            Colima         2
-15  Ciudad de México         2
-16           Tabasco         2
-17            Sonora         1
-18      Quintana Roo         1
-19    Aguascalientes         1
-20           Chiapas         1
-21         Zacatecas         1
-2025-06-16 18:36:19 - INFO - ****************************************************************************************************
-2025-06-16 18:36:19 - INFO - 12 de junio de 2025
-2025-06-16 18:36:19 - INFO - Tiempo de ejecución: 00:00:00:04
+2025-06-17 18:36:30 - INFO - ****************************************************************************************************
+2025-06-17 18:36:33 - INFO - 16 de junio de 2025
+2025-06-17 18:36:34 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
+2025-06-17 18:36:34 - INFO - Total de homicidios del día: 66
+2025-06-17 18:36:34 - INFO - Total de Entidades que reportaron homicidio: 20
+2025-06-17 18:36:34 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_16062025_v2.pdf
+2025-06-17 18:36:34 - INFO -            Entidades  recuento
+0          Michoacán         8
+1          Chihuahua         6
+2             Sonora         6
+3    Baja California         4
+4            Sinaloa         4
+5             Puebla         4
+6            Nayarit         3
+7   Estado de México         3
+8             Colima         3
+9            Tabasco         2
+10          Guerrero         2
+11  Ciudad de México         2
+12           Jalisco         2
+13          Veracruz         2
+14        Guanajuato        10
+15            Oaxaca         1
+16        Nuevo León         1
+17           Morelos         1
+18        Tamaulipas         1
+19      Quintana Roo         1
+2025-06-17 18:36:34 - INFO - ****************************************************************************************************
+2025-06-17 18:36:34 - INFO - Tiempo de ejecución: 00:00:00:04
