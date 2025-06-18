@@ -1,29 +1,30 @@
-2025-06-17 18:36:30 - INFO - ****************************************************************************************************
-2025-06-17 18:36:33 - INFO - 16 de junio de 2025
-2025-06-17 18:36:34 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
-2025-06-17 18:36:34 - INFO - Total de homicidios del día: 66
-2025-06-17 18:36:34 - INFO - Total de Entidades que reportaron homicidio: 20
-2025-06-17 18:36:34 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_16062025_v2.pdf
-2025-06-17 18:36:34 - INFO -            Entidades  recuento
-0          Michoacán         8
-1          Chihuahua         6
-2             Sonora         6
-3    Baja California         4
-4            Sinaloa         4
-5             Puebla         4
-6            Nayarit         3
-7   Estado de México         3
-8             Colima         3
-9            Tabasco         2
-10          Guerrero         2
-11  Ciudad de México         2
-12           Jalisco         2
-13          Veracruz         2
-14        Guanajuato        10
-15            Oaxaca         1
-16        Nuevo León         1
-17           Morelos         1
-18        Tamaulipas         1
-19      Quintana Roo         1
-2025-06-17 18:36:34 - INFO - ****************************************************************************************************
-2025-06-17 18:36:34 - INFO - Tiempo de ejecución: 00:00:00:04
+2025-06-18 18:36:18 - INFO - ****************************************************************************************************
+2025-06-18 18:36:26 - INFO - 17 de junio de 2025
+2025-06-18 18:36:27 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
+2025-06-18 18:36:27 - INFO - Total de homicidios del día: 51
+2025-06-18 18:36:27 - INFO - Total de Entidades que reportaron homicidio: 21
+2025-06-18 18:36:27 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_17062025_v2.pdf
+2025-06-18 18:36:27 - INFO -               Entidades  recuento
+0             Michoacán         8
+1                Sonora         4
+2                Colima         4
+3              Guerrero         4
+4      Estado de México         4
+5              Veracruz         3
+6               Morelos         3
+7             Chihuahua         2
+8               Sinaloa         2
+9               Jalisco         2
+10      Baja California         2
+11           Nuevo León         2
+12               Puebla         2
+13           Guanajuato         2
+14             Coahuila         1
+15     Ciudad de México         1
+16              Chiapas         1
+17             Campeche         1
+18  Baja California Sur         1
+19           Tamaulipas         1
+20              Tabasco         1
+2025-06-18 18:36:27 - INFO - ****************************************************************************************************
+2025-06-18 18:36:27 - INFO - Tiempo de ejecución: 00:00:00:08
