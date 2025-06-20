@@ -1,27 +1,27 @@
-2025-06-19 18:34:50 - INFO - ****************************************************************************************************
-2025-06-19 18:34:54 - INFO - 18 de junio de 2025
-2025-06-19 18:34:54 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
-2025-06-19 18:34:54 - INFO - Total de homicidios del día: 45
-2025-06-19 18:34:54 - INFO - Total de Entidades que reportaron homicidio: 18
-2025-06-19 18:34:54 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_18062025_v2.pdf
-2025-06-19 18:34:54 - INFO -            Entidades  recuento
-0    Baja California         6
+2025-06-20 18:35:26 - INFO - ****************************************************************************************************
+2025-06-20 18:35:32 - INFO - 19 de junio de 2025
+2025-06-20 18:35:32 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
+2025-06-20 18:35:32 - INFO - Total de homicidios del día: 55
+2025-06-20 18:35:32 - INFO - Total de Entidades que reportaron homicidio: 18
+2025-06-20 18:35:32 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_19062025_v2.pdf
+2025-06-20 18:35:32 - INFO -            Entidades  recuento
+0            Sinaloa         7
 1         Guanajuato         6
-2   Estado de México         5
-3            Morelos         4
-4            Sinaloa         3
-5         Nuevo León         3
-6          Chihuahua         3
-7          Michoacán         3
-8     Aguascalientes         2
-9   Ciudad de México         2
-10            Puebla         1
-11           Tabasco         1
-12            Sonora         1
-13   San Luis Potosí         1
-14           Nayarit         1
-15         Zacatecas         1
-16           Hidalgo         1
-17          Guerrero         1
-2025-06-19 18:34:54 - INFO - ****************************************************************************************************
-2025-06-19 18:34:54 - INFO - Tiempo de ejecución: 00:00:00:03
+2          Michoacán         5
+3   Estado de México         4
+4    Baja California         3
+5          Chihuahua         3
+6             Sonora         3
+7            Tabasco         3
+8            Morelos         2
+9           Veracruz        11
+10            Colima         1
+11          Coahuila         1
+12  Ciudad de México         1
+13          Tlaxcala         1
+14   San Luis Potosí         1
+15        Nuevo León         1
+16            Oaxaca         1
+17            Puebla         1
+2025-06-20 18:35:32 - INFO - ****************************************************************************************************
+2025-06-20 18:35:32 - INFO - Tiempo de ejecución: 00:00:00:06
