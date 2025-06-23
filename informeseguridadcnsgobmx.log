@@ -1,27 +1,4 @@
-2025-06-20 18:35:26 - INFO - ****************************************************************************************************
-2025-06-20 18:35:32 - INFO - 19 de junio de 2025
-2025-06-20 18:35:32 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
-2025-06-20 18:35:32 - INFO - Total de homicidios del día: 55
-2025-06-20 18:35:32 - INFO - Total de Entidades que reportaron homicidio: 18
-2025-06-20 18:35:32 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_19062025_v2.pdf
-2025-06-20 18:35:32 - INFO -            Entidades  recuento
-0            Sinaloa         7
-1         Guanajuato         6
-2          Michoacán         5
-3   Estado de México         4
-4    Baja California         3
-5          Chihuahua         3
-6             Sonora         3
-7            Tabasco         3
-8            Morelos         2
-9           Veracruz        11
-10            Colima         1
-11          Coahuila         1
-12  Ciudad de México         1
-13          Tlaxcala         1
-14   San Luis Potosí         1
-15        Nuevo León         1
-16            Oaxaca         1
-17            Puebla         1
-2025-06-20 18:35:32 - INFO - ****************************************************************************************************
-2025-06-20 18:35:32 - INFO - Tiempo de ejecución: 00:00:00:06
+2025-06-23 18:36:31 - INFO - ****************************************************************************************************
+2025-06-23 18:38:48 - ERROR - HTTPConnectionPool(host='www.informeseguridad.cns.gob.mx', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f26bb831c90>, 'Connection to www.informeseguridad.cns.gob.mx timed out. (connect timeout=None)'))
+2025-06-23 18:38:48 - ERROR - 'NoneType' object is not iterable
+2025-06-23 18:38:48 - INFO - Tiempo de ejecución: 00:00:02:16
