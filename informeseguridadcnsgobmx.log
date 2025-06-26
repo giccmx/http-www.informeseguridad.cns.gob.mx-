@@ -1,4 +1,28 @@
-2025-06-25 18:37:09 - INFO - ****************************************************************************************************
-2025-06-25 18:39:27 - ERROR - HTTPConnectionPool(host='www.informeseguridad.cns.gob.mx', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f0f74dc5ae0>, 'Connection to www.informeseguridad.cns.gob.mx timed out. (connect timeout=None)'))
-2025-06-25 18:39:27 - ERROR - Ocurrió un error :cannot unpack non-iterable NoneType object
-2025-06-25 18:39:27 - INFO - Tiempo de ejecución: 00:00:02:18
+2025-06-26 18:36:13 - INFO - ****************************************************************************************************
+2025-06-26 18:36:17 - INFO - 25 de junio de 2025
+2025-06-26 18:36:18 - WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value
+2025-06-26 18:36:18 - INFO - Total de homicidios del día: 62
+2025-06-26 18:36:18 - INFO - Total de Entidades que reportaron homicidio: 19
+2025-06-26 18:36:18 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_25062025_v2.pdf
+2025-06-26 18:36:18 - INFO -            Entidades  recuento
+0          Michoacán         6
+1             Colima         5
+2             Sonora         4
+3         Nuevo León         4
+4    Baja California         3
+5            Sinaloa         3
+6   Estado de México         3
+7           Guerrero         3
+8          Zacatecas         2
+9           Veracruz         2
+10           Chiapas         2
+11         Chihuahua         2
+12   San Luis Potosí         2
+13        Guanajuato        16
+14           Tabasco         1
+15            Puebla         1
+16           Morelos         1
+17          Coahuila         1
+18  Ciudad de México         1
+2025-06-26 18:36:18 - INFO - ****************************************************************************************************
+2025-06-26 18:36:18 - INFO - Tiempo de ejecución: 00:00:00:04
