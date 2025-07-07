@@ -1,4 +1,4 @@
-2025-07-04 18:34:50 - INFO - ****************************************************************************************************
-2025-07-04 18:37:03 - ERROR - HTTPConnectionPool(host='www.informeseguridad.cns.gob.mx', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f2b26ba9870>, 'Connection to www.informeseguridad.cns.gob.mx timed out. (connect timeout=None)'))
-2025-07-04 18:37:03 - ERROR - Ocurrió un error :cannot unpack non-iterable NoneType object
-2025-07-04 18:37:03 - INFO - Tiempo de ejecución: 00:00:02:13
+2025-07-07 18:36:42 - INFO - ****************************************************************************************************
+2025-07-07 18:38:58 - ERROR - HTTPConnectionPool(host='www.informeseguridad.cns.gob.mx', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f40e1da80d0>, 'Connection to www.informeseguridad.cns.gob.mx timed out. (connect timeout=None)'))
+2025-07-07 18:38:58 - ERROR - 'NoneType' object is not iterable
+2025-07-07 18:38:58 - INFO - Tiempo de ejecución: 00:00:02:16
