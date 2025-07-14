@@ -1,10 +1,27 @@
-2025-07-11 18:36:46 - INFO - ****************************************************************************************************
-2025-07-11 18:36:50 - INFO - 10 de julio de 2025
-2025-07-11 18:36:52 - INFO - Total de homicidios del día: 0
-2025-07-11 18:36:52 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-07-11 18:36:52 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_10072025_v2.pdf
-2025-07-11 18:36:52 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 15, 16]
+2025-07-14 18:40:02 - INFO - ****************************************************************************************************
+2025-07-14 18:40:06 - INFO - 13 de julio de 2025
+2025-07-14 18:40:07 - INFO - Total de homicidios del día: 0
+2025-07-14 18:40:07 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-07-14 18:40:07 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13072025_v2.pdf
+2025-07-14 18:40:07 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-07-11 18:36:52 - INFO - ****************************************************************************************************
-2025-07-11 18:36:52 - INFO - Tiempo de ejecución: 00:00:00:05
+2025-07-14 18:40:07 - INFO - ****************************************************************************************************
+2025-07-14 18:40:07 - INFO - 12 de julio de 2025
+2025-07-14 18:40:08 - INFO - Total de homicidios del día: 0
+2025-07-14 18:40:08 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-07-14 18:40:08 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_12072025_v2.pdf
+2025-07-14 18:40:08 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-07-14 18:40:08 - INFO - ****************************************************************************************************
+2025-07-14 18:40:08 - INFO - 11 de julio de 2025
+2025-07-14 18:40:09 - INFO - Total de homicidios del día: 0
+2025-07-14 18:40:09 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-07-14 18:40:09 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_11072025_v2.pdf
+2025-07-14 18:40:09 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-07-14 18:40:09 - INFO - ****************************************************************************************************
+2025-07-14 18:40:09 - INFO - 10 de julio de 2025
+2025-07-14 18:40:09 - INFO - Tiempo de ejecución: 00:00:00:07
