@@ -1,10 +1,10 @@
-2025-07-17 18:39:34 - INFO - ****************************************************************************************************
-2025-07-17 18:39:38 - INFO - 16 de julio de 2025
-2025-07-17 18:39:39 - INFO - Total de homicidios del día: 0
-2025-07-17 18:39:39 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-07-17 18:39:39 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_16072025_v2.pdf
-2025-07-17 18:39:39 - INFO - Empty DataFrame
+2025-07-18 18:37:55 - INFO - ****************************************************************************************************
+2025-07-18 18:38:00 - INFO - 17 de julio de 2025
+2025-07-18 18:38:00 - INFO - Total de homicidios del día: 0
+2025-07-18 18:38:00 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-07-18 18:38:00 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_17072025_v2.pdf
+2025-07-18 18:38:00 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-07-17 18:39:39 - INFO - ****************************************************************************************************
-2025-07-17 18:39:39 - INFO - Tiempo de ejecución: 00:00:00:04
+2025-07-18 18:38:00 - INFO - ****************************************************************************************************
+2025-07-18 18:38:00 - INFO - Tiempo de ejecución: 00:00:00:05
