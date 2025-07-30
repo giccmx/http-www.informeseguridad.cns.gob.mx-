@@ -1,10 +1,10 @@
-2025-07-29 18:41:18 - INFO - ****************************************************************************************************
-2025-07-29 18:41:22 - INFO - 28 de julio de 2025
-2025-07-29 18:41:23 - INFO - Total de homicidios del día: 0
-2025-07-29 18:41:23 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-07-29 18:41:23 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_28072025_v2.pdf
-2025-07-29 18:41:23 - INFO - Empty DataFrame
+2025-07-30 18:40:38 - INFO - ****************************************************************************************************
+2025-07-30 18:40:42 - INFO - 29 de julio de 2025
+2025-07-30 18:40:42 - INFO - Total de homicidios del día: 0
+2025-07-30 18:40:42 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-07-30 18:40:42 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_29072025_v2.pdf
+2025-07-30 18:40:42 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-07-29 18:41:23 - INFO - ****************************************************************************************************
-2025-07-29 18:41:23 - INFO - Tiempo de ejecución: 00:00:00:04
+2025-07-30 18:40:42 - INFO - ****************************************************************************************************
+2025-07-30 18:40:42 - INFO - Tiempo de ejecución: 00:00:00:04
