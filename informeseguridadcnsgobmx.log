@@ -1,27 +1,10 @@
-2025-08-11 18:39:59 - INFO - ****************************************************************************************************
-2025-08-11 18:40:08 - INFO - 10 de agosto de 2025
-2025-08-11 18:40:09 - INFO - Total de homicidios del día: 0
-2025-08-11 18:40:09 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-08-11 18:40:09 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_10082025_v2.pdf
-2025-08-11 18:40:09 - INFO - Empty DataFrame
+2025-08-12 18:39:18 - INFO - ****************************************************************************************************
+2025-08-12 18:39:23 - INFO - 11 de agosto de 2025
+2025-08-12 18:39:23 - INFO - Total de homicidios del día: 0
+2025-08-12 18:39:23 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-08-12 18:39:23 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_11082025_v2.pdf
+2025-08-12 18:39:23 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-08-11 18:40:09 - INFO - ****************************************************************************************************
-2025-08-11 18:40:09 - INFO - 09 de agosto de 2025
-2025-08-11 18:40:09 - INFO - Total de homicidios del día: 0
-2025-08-11 18:40:09 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-08-11 18:40:09 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_09082025_v2.pdf
-2025-08-11 18:40:09 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-08-11 18:40:09 - INFO - ****************************************************************************************************
-2025-08-11 18:40:09 - INFO - 08 de agosto de 2025
-2025-08-11 18:40:10 - INFO - Total de homicidios del día: 0
-2025-08-11 18:40:10 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-08-11 18:40:10 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_08082025_v2.pdf
-2025-08-11 18:40:10 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-08-11 18:40:10 - INFO - ****************************************************************************************************
-2025-08-11 18:40:10 - INFO - 07 de agosto de 2025
-2025-08-11 18:40:10 - INFO - Tiempo de ejecución: 00:00:00:10
+2025-08-12 18:39:23 - INFO - ****************************************************************************************************
+2025-08-12 18:39:23 - INFO - Tiempo de ejecución: 00:00:00:05
