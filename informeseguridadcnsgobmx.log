@@ -1,10 +1,27 @@
-2025-08-15 18:37:55 - INFO - ****************************************************************************************************
-2025-08-15 18:37:59 - INFO - 14 de agosto de 2025
-2025-08-15 18:38:00 - INFO - Total de homicidios del día: 0
-2025-08-15 18:38:00 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-08-15 18:38:00 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_14082025_v2.pdf
-2025-08-15 18:38:00 - INFO - Empty DataFrame
+2025-08-18 18:38:51 - INFO - ****************************************************************************************************
+2025-08-18 18:38:54 - INFO - 17 de agosto de 2025
+2025-08-18 18:38:55 - INFO - Total de homicidios del día: 0
+2025-08-18 18:38:55 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-08-18 18:38:55 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_17082025_v2.pdf
+2025-08-18 18:38:55 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-08-15 18:38:00 - INFO - ****************************************************************************************************
-2025-08-15 18:38:00 - INFO - Tiempo de ejecución: 00:00:00:04
+2025-08-18 18:38:55 - INFO - ****************************************************************************************************
+2025-08-18 18:38:55 - INFO - 16 de agosto de 2025
+2025-08-18 18:38:56 - INFO - Total de homicidios del día: 0
+2025-08-18 18:38:56 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-08-18 18:38:56 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_16082025_v2.pdf
+2025-08-18 18:38:56 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-08-18 18:38:56 - INFO - ****************************************************************************************************
+2025-08-18 18:38:56 - INFO - 15 de agosto de 2025
+2025-08-18 18:38:56 - INFO - Total de homicidios del día: 0
+2025-08-18 18:38:56 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-08-18 18:38:56 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_15082025_v2.pdf
+2025-08-18 18:38:56 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-08-18 18:38:56 - INFO - ****************************************************************************************************
+2025-08-18 18:38:56 - INFO - 14 de agosto de 2025
+2025-08-18 18:38:56 - INFO - Tiempo de ejecución: 00:00:00:05
