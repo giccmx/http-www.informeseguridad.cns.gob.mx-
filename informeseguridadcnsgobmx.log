@@ -1,10 +1,10 @@
-2025-08-20 18:36:28 - INFO - ****************************************************************************************************
-2025-08-20 18:36:31 - INFO - 19 de agosto de 2025
-2025-08-20 18:36:32 - INFO - Total de homicidios del día: 0
-2025-08-20 18:36:32 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-08-20 18:36:32 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_19082025_v2.pdf
-2025-08-20 18:36:32 - INFO - Empty DataFrame
+2025-08-21 18:34:09 - INFO - ****************************************************************************************************
+2025-08-21 18:34:13 - INFO - 20 de agosto de 2025
+2025-08-21 18:34:13 - INFO - Total de homicidios del día: 0
+2025-08-21 18:34:13 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-08-21 18:34:13 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_20082025_v2.pdf
+2025-08-21 18:34:13 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-08-20 18:36:32 - INFO - ****************************************************************************************************
-2025-08-20 18:36:32 - INFO - Tiempo de ejecución: 00:00:00:04
+2025-08-21 18:34:13 - INFO - ****************************************************************************************************
+2025-08-21 18:34:13 - INFO - Tiempo de ejecución: 00:00:00:04
