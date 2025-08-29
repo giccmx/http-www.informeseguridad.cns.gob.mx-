@@ -1,4 +1,10 @@
-2025-08-28 18:34:52 - INFO - ****************************************************************************************************
-2025-08-28 18:37:08 - ERROR - HTTPConnectionPool(host='www.informeseguridad.cns.gob.mx', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f411bfb84c0>, 'Connection to www.informeseguridad.cns.gob.mx timed out. (connect timeout=None)'))
-2025-08-28 18:37:08 - ERROR - Ocurrió un error :cannot unpack non-iterable NoneType object
-2025-08-28 18:37:08 - INFO - Tiempo de ejecución: 00:00:02:15
+2025-08-29 18:32:18 - INFO - ****************************************************************************************************
+2025-08-29 18:32:21 - INFO - 28 de agosto de 2025
+2025-08-29 18:32:22 - INFO - Total de homicidios del día: 0
+2025-08-29 18:32:22 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-08-29 18:32:22 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_28082025_v2.pdf
+2025-08-29 18:32:22 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-08-29 18:32:22 - INFO - ****************************************************************************************************
+2025-08-29 18:32:22 - INFO - Tiempo de ejecución: 00:00:00:03
