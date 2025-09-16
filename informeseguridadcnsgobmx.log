@@ -1,4 +1,1 @@
-2025-09-15 18:34:57 - INFO - ****************************************************************************************************
-2025-09-15 18:37:12 - ERROR - HTTPConnectionPool(host='www.informeseguridad.cns.gob.mx', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7f5e535b4790>, 'Connection to www.informeseguridad.cns.gob.mx timed out. (connect timeout=None)'))
-2025-09-15 18:37:12 - ERROR - 'NoneType' object is not iterable
-2025-09-15 18:37:12 - INFO - Tiempo de ejecución: 00:00:02:15
+2025-09-16 18:34:42 - INFO - Día inhabil
