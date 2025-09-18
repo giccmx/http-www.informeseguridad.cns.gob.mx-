@@ -1,43 +1,10 @@
-2025-09-17 18:34:45 - INFO - ****************************************************************************************************
-2025-09-17 18:34:49 - INFO - 16 de septiembre de 2025
-2025-09-17 18:34:50 - INFO - Total de homicidios del día: 0
-2025-09-17 18:34:50 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-09-17 18:34:50 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_16092025_v2.pdf
-2025-09-17 18:34:50 - INFO - Empty DataFrame
+2025-09-18 18:35:23 - INFO - ****************************************************************************************************
+2025-09-18 18:35:27 - INFO - 17 de septiembre de 2025
+2025-09-18 18:35:32 - INFO - Total de homicidios del día: 0
+2025-09-18 18:35:32 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-09-18 18:35:32 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_17092025_v2.pdf
+2025-09-18 18:35:32 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-09-17 18:34:50 - INFO - ****************************************************************************************************
-2025-09-17 18:34:50 - INFO - 15 de septiembre de 2025
-2025-09-17 18:34:51 - INFO - Total de homicidios del día: 0
-2025-09-17 18:34:51 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-09-17 18:34:51 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_15092025_v2.pdf
-2025-09-17 18:34:51 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-09-17 18:34:51 - INFO - ****************************************************************************************************
-2025-09-17 18:34:51 - INFO - 14 de septiembre de 2025
-2025-09-17 18:34:51 - INFO - Total de homicidios del día: 0
-2025-09-17 18:34:51 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-09-17 18:34:51 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_14092025_v2.pdf
-2025-09-17 18:34:51 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-09-17 18:34:51 - INFO - ****************************************************************************************************
-2025-09-17 18:34:51 - INFO - 13 de septiembre de 2025
-2025-09-17 18:34:52 - INFO - Total de homicidios del día: 0
-2025-09-17 18:34:52 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-09-17 18:34:52 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13092025_v2.pdf
-2025-09-17 18:34:52 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-09-17 18:34:52 - INFO - ****************************************************************************************************
-2025-09-17 18:34:52 - INFO - 12 de septiembre de 2025
-2025-09-17 18:34:53 - INFO - Total de homicidios del día: 0
-2025-09-17 18:34:53 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-09-17 18:34:53 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_12092025_v2.pdf
-2025-09-17 18:34:53 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-09-17 18:34:53 - INFO - ****************************************************************************************************
-2025-09-17 18:34:53 - INFO - 11 de septiembre de 2025
-2025-09-17 18:34:53 - INFO - Tiempo de ejecución: 00:00:00:08
+2025-09-18 18:35:32 - INFO - ****************************************************************************************************
+2025-09-18 18:35:32 - INFO - Tiempo de ejecución: 00:00:00:09
