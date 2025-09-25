@@ -1,10 +1,5 @@
-2025-09-24 18:32:24 - INFO - ****************************************************************************************************
-2025-09-24 18:32:32 - INFO - 23 de septiembre de 2025
-2025-09-24 18:32:33 - INFO - Total de homicidios del día: 0
-2025-09-24 18:32:33 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-09-24 18:32:33 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_23092025_v2.pdf
-2025-09-24 18:32:33 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-09-24 18:32:33 - INFO - ****************************************************************************************************
-2025-09-24 18:32:33 - INFO - Tiempo de ejecución: 00:00:00:08
+2025-09-25 18:35:31 - INFO - ****************************************************************************************************
+2025-09-25 18:35:32 - INFO - None
+2025-09-25 18:35:32 - ERROR - can only concatenate str (not "NoneType") to str
+2025-09-25 18:35:32 - ERROR - Ocurrió un error :cannot unpack non-iterable NoneType object
+2025-09-25 18:35:32 - INFO - Tiempo de ejecución: 00:00:00:00
