@@ -1,10 +1,27 @@
-2025-09-26 18:32:37 - INFO - ****************************************************************************************************
-2025-09-26 18:32:40 - INFO - 25 de septiembre de 2025
-2025-09-26 18:32:41 - INFO - Total de homicidios del día: 0
-2025-09-26 18:32:41 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-09-26 18:32:41 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_25092025_v2.pdf
-2025-09-26 18:32:41 - INFO - Empty DataFrame
+2025-09-29 18:35:26 - INFO - ****************************************************************************************************
+2025-09-29 18:35:32 - INFO - 28 de septiembre de 2025
+2025-09-29 18:35:32 - INFO - Total de homicidios del día: 0
+2025-09-29 18:35:32 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-09-29 18:35:32 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_28092025_v2.pdf
+2025-09-29 18:35:32 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-09-26 18:32:41 - INFO - ****************************************************************************************************
-2025-09-26 18:32:41 - INFO - Tiempo de ejecución: 00:00:00:04
+2025-09-29 18:35:32 - INFO - ****************************************************************************************************
+2025-09-29 18:35:32 - INFO - 27 de septiembre de 2025
+2025-09-29 18:35:33 - INFO - Total de homicidios del día: 0
+2025-09-29 18:35:33 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-09-29 18:35:33 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_27092025_v2.pdf
+2025-09-29 18:35:33 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-09-29 18:35:33 - INFO - ****************************************************************************************************
+2025-09-29 18:35:33 - INFO - 26 de septiembre de 2025
+2025-09-29 18:35:34 - INFO - Total de homicidios del día: 0
+2025-09-29 18:35:34 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-09-29 18:35:34 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_26092025_v2.pdf
+2025-09-29 18:35:34 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-09-29 18:35:34 - INFO - ****************************************************************************************************
+2025-09-29 18:35:34 - INFO - 25 de septiembre de 2025
+2025-09-29 18:35:34 - INFO - Tiempo de ejecución: 00:00:00:07
