@@ -1,27 +1,10 @@
-2025-10-06 18:35:36 - INFO - ****************************************************************************************************
-2025-10-06 18:35:40 - INFO - 05 de octubre de 2025
-2025-10-06 18:35:45 - INFO - Total de homicidios del día: 0
-2025-10-06 18:35:45 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-10-06 18:35:45 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_05102025_v2.pdf
-2025-10-06 18:35:45 - INFO - Empty DataFrame
+2025-10-07 18:36:08 - INFO - ****************************************************************************************************
+2025-10-07 18:36:12 - INFO - 06 de octubre de 2025
+2025-10-07 18:36:12 - INFO - Total de homicidios del día: 0
+2025-10-07 18:36:12 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-10-07 18:36:12 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_06102025_v2.pdf
+2025-10-07 18:36:12 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-10-06 18:35:45 - INFO - ****************************************************************************************************
-2025-10-06 18:35:45 - INFO - 04 de octubre de 2025
-2025-10-06 18:35:45 - INFO - Total de homicidios del día: 0
-2025-10-06 18:35:45 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-10-06 18:35:45 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_04102025_v2.pdf
-2025-10-06 18:35:45 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-10-06 18:35:45 - INFO - ****************************************************************************************************
-2025-10-06 18:35:45 - INFO - 03 de octubre de 2025
-2025-10-06 18:35:46 - INFO - Total de homicidios del día: 0
-2025-10-06 18:35:46 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-10-06 18:35:46 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_03102025_v2.pdf
-2025-10-06 18:35:46 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-10-06 18:35:46 - INFO - ****************************************************************************************************
-2025-10-06 18:35:46 - INFO - 02 de octubre de 2025
-2025-10-06 18:35:46 - INFO - Tiempo de ejecución: 00:00:00:10
+2025-10-07 18:36:12 - INFO - ****************************************************************************************************
+2025-10-07 18:36:12 - INFO - Tiempo de ejecución: 00:00:00:04
