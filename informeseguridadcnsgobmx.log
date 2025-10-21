@@ -1,35 +1,10 @@
-2025-10-20 18:37:30 - INFO - ****************************************************************************************************
-2025-10-20 18:37:34 - INFO - 19 de octubre de 2025
-2025-10-20 18:37:35 - INFO - Total de homicidios del día: 0
-2025-10-20 18:37:35 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-10-20 18:37:35 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_19102025_v2.pdf
-2025-10-20 18:37:35 - INFO - Empty DataFrame
+2025-10-21 18:36:04 - INFO - ****************************************************************************************************
+2025-10-21 18:36:08 - INFO - 20 de octubre de 2025
+2025-10-21 18:36:12 - INFO - Total de homicidios del día: 0
+2025-10-21 18:36:12 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-10-21 18:36:12 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_20102025_v2.pdf
+2025-10-21 18:36:12 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-10-20 18:37:35 - INFO - ****************************************************************************************************
-2025-10-20 18:37:35 - INFO - 18 de octubre de 2025
-2025-10-20 18:37:35 - INFO - Total de homicidios del día: 0
-2025-10-20 18:37:35 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-10-20 18:37:35 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_18102025_v2.pdf
-2025-10-20 18:37:35 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-10-20 18:37:35 - INFO - ****************************************************************************************************
-2025-10-20 18:37:35 - INFO - 17 de octubre de 2025
-2025-10-20 18:37:36 - INFO - Total de homicidios del día: 0
-2025-10-20 18:37:36 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-10-20 18:37:36 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_17102025_v2.pdf
-2025-10-20 18:37:36 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-10-20 18:37:36 - INFO - ****************************************************************************************************
-2025-10-20 18:37:36 - INFO - 16 de octubre de 2025
-2025-10-20 18:37:36 - INFO - Total de homicidios del día: 0
-2025-10-20 18:37:36 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-10-20 18:37:36 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_16102025_v2.pdf
-2025-10-20 18:37:36 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-10-20 18:37:36 - INFO - ****************************************************************************************************
-2025-10-20 18:37:36 - INFO - 15 de octubre de 2025
-2025-10-20 18:37:36 - INFO - Tiempo de ejecución: 00:00:00:06
+2025-10-21 18:36:12 - INFO - ****************************************************************************************************
+2025-10-21 18:36:12 - INFO - Tiempo de ejecución: 00:00:00:07
