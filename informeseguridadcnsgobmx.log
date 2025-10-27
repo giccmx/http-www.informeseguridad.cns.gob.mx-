@@ -1,10 +1,27 @@
-2025-10-24 18:33:43 - INFO - ****************************************************************************************************
-2025-10-24 18:33:46 - INFO - 23 de octubre de 2025
-2025-10-24 18:33:47 - INFO - Total de homicidios del día: 0
-2025-10-24 18:33:47 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-10-24 18:33:47 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_23102025_v2.pdf
-2025-10-24 18:33:47 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 13, 14]
+2025-10-27 18:36:38 - INFO - ****************************************************************************************************
+2025-10-27 18:36:41 - INFO - 26 de octubre de 2025
+2025-10-27 18:36:42 - INFO - Total de homicidios del día: 0
+2025-10-27 18:36:42 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-10-27 18:36:42 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_26102025_v2.pdf
+2025-10-27 18:36:42 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-10-24 18:33:47 - INFO - ****************************************************************************************************
-2025-10-24 18:33:47 - INFO - Tiempo de ejecución: 00:00:00:04
+2025-10-27 18:36:42 - INFO - ****************************************************************************************************
+2025-10-27 18:36:42 - INFO - 25 de octubre de 2025
+2025-10-27 18:36:43 - INFO - Total de homicidios del día: 0
+2025-10-27 18:36:43 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-10-27 18:36:43 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_25102025_v2.pdf
+2025-10-27 18:36:43 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-10-27 18:36:43 - INFO - ****************************************************************************************************
+2025-10-27 18:36:43 - INFO - 24 de octubre de 2025
+2025-10-27 18:36:43 - INFO - Total de homicidios del día: 0
+2025-10-27 18:36:43 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-10-27 18:36:43 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_24102025_v2.pdf
+2025-10-27 18:36:43 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 14, 15]
+Index: []
+2025-10-27 18:36:43 - INFO - ****************************************************************************************************
+2025-10-27 18:36:43 - INFO - 23 de octubre de 2025
+2025-10-27 18:36:43 - INFO - Tiempo de ejecución: 00:00:00:05
