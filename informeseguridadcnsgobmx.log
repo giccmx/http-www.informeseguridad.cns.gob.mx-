@@ -1,10 +1,10 @@
-2025-10-29 18:37:08 - INFO - ****************************************************************************************************
-2025-10-29 18:37:12 - INFO - 28 de octubre de 2025
-2025-10-29 18:37:13 - INFO - Total de homicidios del día: 0
-2025-10-29 18:37:13 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-10-29 18:37:13 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_28102025_v2.pdf
-2025-10-29 18:37:13 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
+2025-10-30 18:37:10 - INFO - ****************************************************************************************************
+2025-10-30 18:37:14 - INFO - 29 de octubre de 2025
+2025-10-30 18:37:15 - INFO - Total de homicidios del día: 0
+2025-10-30 18:37:15 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-10-30 18:37:15 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_29102025_v2.pdf
+2025-10-30 18:37:15 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 13, 14]
 Index: []
-2025-10-29 18:37:13 - INFO - ****************************************************************************************************
-2025-10-29 18:37:13 - INFO - Tiempo de ejecución: 00:00:00:04
+2025-10-30 18:37:15 - INFO - ****************************************************************************************************
+2025-10-30 18:37:15 - INFO - Tiempo de ejecución: 00:00:00:04
