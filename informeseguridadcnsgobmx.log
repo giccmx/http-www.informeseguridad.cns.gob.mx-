@@ -1,10 +1,27 @@
-2025-11-07 18:35:21 - INFO - ****************************************************************************************************
-2025-11-07 18:35:28 - INFO - 06 de noviembre de 2025
-2025-11-07 18:35:29 - INFO - Total de homicidios del día: 0
-2025-11-07 18:35:29 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-11-07 18:35:29 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_06112025_v2.pdf
-2025-11-07 18:35:29 - INFO - Empty DataFrame
+2025-11-10 18:37:01 - INFO - ****************************************************************************************************
+2025-11-10 18:37:09 - INFO - 09 de noviembre de 2025
+2025-11-10 18:37:10 - INFO - Total de homicidios del día: 0
+2025-11-10 18:37:10 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-11-10 18:37:10 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_09112025_v2.pdf
+2025-11-10 18:37:10 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-11-07 18:35:29 - INFO - ****************************************************************************************************
-2025-11-07 18:35:29 - INFO - Tiempo de ejecución: 00:00:00:07
+2025-11-10 18:37:10 - INFO - ****************************************************************************************************
+2025-11-10 18:37:10 - INFO - 08 de noviembre de 2025
+2025-11-10 18:37:10 - INFO - Total de homicidios del día: 0
+2025-11-10 18:37:10 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-11-10 18:37:10 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_08112025_v2.pdf
+2025-11-10 18:37:10 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-11-10 18:37:10 - INFO - ****************************************************************************************************
+2025-11-10 18:37:10 - INFO - 07 de noviembre de 2025
+2025-11-10 18:37:15 - INFO - Total de homicidios del día: 0
+2025-11-10 18:37:15 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-11-10 18:37:15 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_07112025_v2.pdf
+2025-11-10 18:37:15 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-11-10 18:37:15 - INFO - ****************************************************************************************************
+2025-11-10 18:37:15 - INFO - 06 de noviembre de 2025
+2025-11-10 18:37:15 - INFO - Tiempo de ejecución: 00:00:00:13
