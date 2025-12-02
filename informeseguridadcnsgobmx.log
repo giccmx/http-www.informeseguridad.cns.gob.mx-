@@ -1,27 +1,4 @@
-2025-12-01 18:43:11 - INFO - ****************************************************************************************************
-2025-12-01 18:43:25 - INFO - 30 de noviembre de 2025
-2025-12-01 18:43:30 - INFO - Total de homicidios del día: 0
-2025-12-01 18:43:30 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-12-01 18:43:30 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_30112025_v2.pdf
-2025-12-01 18:43:30 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-12-01 18:43:30 - INFO - ****************************************************************************************************
-2025-12-01 18:43:30 - INFO - 29 de noviembre de 2025
-2025-12-01 18:43:30 - INFO - Total de homicidios del día: 0
-2025-12-01 18:43:30 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-12-01 18:43:30 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_29112025_v2.pdf
-2025-12-01 18:43:30 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-12-01 18:43:30 - INFO - ****************************************************************************************************
-2025-12-01 18:43:30 - INFO - 28 de noviembre de 2025
-2025-12-01 18:43:31 - INFO - Total de homicidios del día: 0
-2025-12-01 18:43:31 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-12-01 18:43:31 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_28112025_v2.pdf
-2025-12-01 18:43:31 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-12-01 18:43:31 - INFO - ****************************************************************************************************
-2025-12-01 18:43:31 - INFO - 27 de noviembre de 2025
-2025-12-01 18:43:31 - INFO - Tiempo de ejecución: 00:00:00:20
+2025-12-02 18:41:47 - INFO - ****************************************************************************************************
+2025-12-02 18:44:01 - ERROR - HTTPConnectionPool(host='www.informeseguridad.cns.gob.mx', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x7fe6d1ca9cc0>, 'Connection to www.informeseguridad.cns.gob.mx timed out. (connect timeout=None)'))
+2025-12-02 18:44:01 - ERROR - Ocurrió un error :cannot unpack non-iterable NoneType object
+2025-12-02 18:44:01 - INFO - Tiempo de ejecución: 00:00:02:14
