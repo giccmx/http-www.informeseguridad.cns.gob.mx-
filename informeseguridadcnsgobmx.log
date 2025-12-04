@@ -1,10 +1,10 @@
-2025-12-03 18:40:48 - INFO - ****************************************************************************************************
-2025-12-03 18:40:59 - INFO - 02 de diciembre de 2025
-2025-12-03 18:41:00 - INFO - Total de homicidios del día: 0
-2025-12-03 18:41:00 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-12-03 18:41:00 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_02122025_v2.pdf
-2025-12-03 18:41:00 - INFO - Empty DataFrame
+2025-12-04 18:41:38 - INFO - ****************************************************************************************************
+2025-12-04 18:41:46 - INFO - 03 de diciembre de 2025
+2025-12-04 18:41:47 - INFO - Total de homicidios del día: 0
+2025-12-04 18:41:47 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-04 18:41:47 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_03122025_v2.pdf
+2025-12-04 18:41:47 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-12-03 18:41:00 - INFO - ****************************************************************************************************
-2025-12-03 18:41:00 - INFO - Tiempo de ejecución: 00:00:00:11
+2025-12-04 18:41:47 - INFO - ****************************************************************************************************
+2025-12-04 18:41:47 - INFO - Tiempo de ejecución: 00:00:00:09
