@@ -1,10 +1,27 @@
-2025-12-12 18:40:24 - INFO - ****************************************************************************************************
-2025-12-12 18:40:33 - INFO - 11 de diciembre de 2025
-2025-12-12 18:40:34 - INFO - Total de homicidios del día: 0
-2025-12-12 18:40:34 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-12-12 18:40:34 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_11122025_v2.pdf
-2025-12-12 18:40:34 - INFO - Empty DataFrame
+2025-12-15 18:41:13 - INFO - ****************************************************************************************************
+2025-12-15 18:41:22 - INFO - 14 de diciembre de 2025
+2025-12-15 18:41:22 - INFO - Total de homicidios del día: 0
+2025-12-15 18:41:22 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-15 18:41:22 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_14122025_v2.pdf
+2025-12-15 18:41:22 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-12-12 18:40:34 - INFO - ****************************************************************************************************
-2025-12-12 18:40:34 - INFO - Tiempo de ejecución: 00:00:00:09
+2025-12-15 18:41:22 - INFO - ****************************************************************************************************
+2025-12-15 18:41:22 - INFO - 13 de diciembre de 2025
+2025-12-15 18:41:23 - INFO - Total de homicidios del día: 0
+2025-12-15 18:41:23 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-15 18:41:23 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13122025_v2.pdf
+2025-12-15 18:41:23 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-12-15 18:41:23 - INFO - ****************************************************************************************************
+2025-12-15 18:41:23 - INFO - 12 de diciembre de 2025
+2025-12-15 18:41:23 - INFO - Total de homicidios del día: 0
+2025-12-15 18:41:23 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-15 18:41:23 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_12122025_v2.pdf
+2025-12-15 18:41:23 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-12-15 18:41:23 - INFO - ****************************************************************************************************
+2025-12-15 18:41:23 - INFO - 11 de diciembre de 2025
+2025-12-15 18:41:23 - INFO - Tiempo de ejecución: 00:00:00:10
