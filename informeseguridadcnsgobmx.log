@@ -1,4 +1,43 @@
-2025-12-19 18:39:03 - INFO - ****************************************************************************************************
-2025-12-19 18:41:17 - ERROR - HTTPConnectionPool(host='www.informeseguridad.cns.gob.mx', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.informeseguridad.cns.gob.mx', port=80) at 0x7faa91541f90>, 'Connection to www.informeseguridad.cns.gob.mx timed out. (connect timeout=None)'))
-2025-12-19 18:41:17 - ERROR - Ocurrió un error :cannot unpack non-iterable NoneType object
-2025-12-19 18:41:17 - INFO - Tiempo de ejecución: 00:00:02:13
+2025-12-22 18:39:52 - INFO - ****************************************************************************************************
+2025-12-22 18:39:59 - INFO - 21 de diciembre de 2025
+2025-12-22 18:39:59 - INFO - Total de homicidios del día: 0
+2025-12-22 18:39:59 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-22 18:39:59 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_21122025_v2.pdf
+2025-12-22 18:39:59 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-12-22 18:39:59 - INFO - ****************************************************************************************************
+2025-12-22 18:39:59 - INFO - 20 de diciembre de 2025
+2025-12-22 18:40:00 - INFO - Total de homicidios del día: 0
+2025-12-22 18:40:00 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-22 18:40:00 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_20122025_v2.pdf
+2025-12-22 18:40:00 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-12-22 18:40:00 - INFO - ****************************************************************************************************
+2025-12-22 18:40:00 - INFO - 19 de diciembre de 2025
+2025-12-22 18:40:00 - INFO - Total de homicidios del día: 0
+2025-12-22 18:40:00 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-22 18:40:00 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_19122025_v2.pdf
+2025-12-22 18:40:00 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-12-22 18:40:00 - INFO - ****************************************************************************************************
+2025-12-22 18:40:00 - INFO - 18 de diciembre de 2025
+2025-12-22 18:40:01 - INFO - Total de homicidios del día: 0
+2025-12-22 18:40:01 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-22 18:40:01 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_18122025_v2.pdf
+2025-12-22 18:40:01 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-12-22 18:40:01 - INFO - ****************************************************************************************************
+2025-12-22 18:40:01 - INFO - 17 de diciembre de 2025
+2025-12-22 18:40:01 - INFO - Total de homicidios del día: 0
+2025-12-22 18:40:01 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-22 18:40:01 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_17122025_v2.pdf
+2025-12-22 18:40:01 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2025-12-22 18:40:01 - INFO - ****************************************************************************************************
+2025-12-22 18:40:01 - INFO - 16 de diciembre de 2025
+2025-12-22 18:40:01 - INFO - Tiempo de ejecución: 00:00:00:09
