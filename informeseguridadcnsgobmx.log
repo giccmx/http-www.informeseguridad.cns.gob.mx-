@@ -1,43 +1,10 @@
-2025-12-22 18:39:52 - INFO - ****************************************************************************************************
-2025-12-22 18:39:59 - INFO - 21 de diciembre de 2025
-2025-12-22 18:39:59 - INFO - Total de homicidios del día: 0
-2025-12-22 18:39:59 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-12-22 18:39:59 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_21122025_v2.pdf
-2025-12-22 18:39:59 - INFO - Empty DataFrame
+2025-12-23 18:40:10 - INFO - ****************************************************************************************************
+2025-12-23 18:40:20 - INFO - 22 de diciembre de 2025
+2025-12-23 18:40:21 - INFO - Total de homicidios del día: 0
+2025-12-23 18:40:21 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-23 18:40:21 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_22122025_v2.pdf
+2025-12-23 18:40:21 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2025-12-22 18:39:59 - INFO - ****************************************************************************************************
-2025-12-22 18:39:59 - INFO - 20 de diciembre de 2025
-2025-12-22 18:40:00 - INFO - Total de homicidios del día: 0
-2025-12-22 18:40:00 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-12-22 18:40:00 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_20122025_v2.pdf
-2025-12-22 18:40:00 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-12-22 18:40:00 - INFO - ****************************************************************************************************
-2025-12-22 18:40:00 - INFO - 19 de diciembre de 2025
-2025-12-22 18:40:00 - INFO - Total de homicidios del día: 0
-2025-12-22 18:40:00 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-12-22 18:40:00 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_19122025_v2.pdf
-2025-12-22 18:40:00 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-12-22 18:40:00 - INFO - ****************************************************************************************************
-2025-12-22 18:40:00 - INFO - 18 de diciembre de 2025
-2025-12-22 18:40:01 - INFO - Total de homicidios del día: 0
-2025-12-22 18:40:01 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-12-22 18:40:01 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_18122025_v2.pdf
-2025-12-22 18:40:01 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-12-22 18:40:01 - INFO - ****************************************************************************************************
-2025-12-22 18:40:01 - INFO - 17 de diciembre de 2025
-2025-12-22 18:40:01 - INFO - Total de homicidios del día: 0
-2025-12-22 18:40:01 - INFO - Total de Entidades que reportaron homicidio: 0
-2025-12-22 18:40:01 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_17122025_v2.pdf
-2025-12-22 18:40:01 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2025-12-22 18:40:01 - INFO - ****************************************************************************************************
-2025-12-22 18:40:01 - INFO - 16 de diciembre de 2025
-2025-12-22 18:40:01 - INFO - Tiempo de ejecución: 00:00:00:09
+2025-12-23 18:40:21 - INFO - ****************************************************************************************************
+2025-12-23 18:40:21 - INFO - Tiempo de ejecución: 00:00:00:10
