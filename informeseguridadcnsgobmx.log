@@ -1,1 +1,19 @@
-2025-12-25 18:38:18 - INFO - Día inhabil
+2025-12-26 18:37:57 - INFO - ****************************************************************************************************
+2025-12-26 18:38:04 - INFO - 25 de diciembre de 2025
+2025-12-26 18:38:05 - INFO - Total de homicidios del día: 0
+2025-12-26 18:38:05 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-26 18:38:05 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_25122025_v2.pdf
+2025-12-26 18:38:05 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 16, 17]
+Index: []
+2025-12-26 18:38:05 - INFO - ****************************************************************************************************
+2025-12-26 18:38:05 - INFO - 24 de diciembre de 2025
+2025-12-26 18:38:28 - INFO - Total de homicidios del día: 0
+2025-12-26 18:38:28 - INFO - Total de Entidades que reportaron homicidio: 0
+2025-12-26 18:38:28 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_24122025_v2.pdf
+2025-12-26 18:38:28 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 14, 15]
+Index: []
+2025-12-26 18:38:28 - INFO - ****************************************************************************************************
+2025-12-26 18:38:28 - INFO - 23 de diciembre de 2025
+2025-12-26 18:38:28 - INFO - Tiempo de ejecución: 00:00:00:31
