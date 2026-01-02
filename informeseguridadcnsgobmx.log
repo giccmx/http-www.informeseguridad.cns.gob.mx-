@@ -1,1 +1,27 @@
-2026-01-01 18:39:26 - INFO - Día inhabil
+2026-01-02 18:38:22 - INFO - ****************************************************************************************************
+2026-01-02 18:38:25 - INFO - 01 de enero de 2026
+2026-01-02 18:38:26 - INFO - Total de homicidios del día: 0
+2026-01-02 18:38:26 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-01-02 18:38:26 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_01012026_v2.pdf
+2026-01-02 18:38:26 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-01-02 18:38:26 - INFO - ****************************************************************************************************
+2026-01-02 18:38:26 - INFO - 31 de diciembre de 2025
+2026-01-02 18:38:26 - INFO - Total de homicidios del día: 0
+2026-01-02 18:38:26 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-01-02 18:38:26 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_31122025_v2.pdf
+2026-01-02 18:38:26 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-01-02 18:38:26 - INFO - ****************************************************************************************************
+2026-01-02 18:38:26 - INFO - 30 de diciembre de 2025
+2026-01-02 18:38:27 - INFO - Total de homicidios del día: 0
+2026-01-02 18:38:27 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-01-02 18:38:27 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_30122025_v2.pdf
+2026-01-02 18:38:27 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-01-02 18:38:27 - INFO - ****************************************************************************************************
+2026-01-02 18:38:27 - INFO - 29 de diciembre de 2025
+2026-01-02 18:38:27 - INFO - Tiempo de ejecución: 00:00:00:05
