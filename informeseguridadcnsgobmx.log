@@ -1,27 +1,10 @@
-2026-01-05 18:42:09 - INFO - ****************************************************************************************************
-2026-01-05 18:42:12 - INFO - 04 de enero de 2026
-2026-01-05 18:42:13 - INFO - Total de homicidios del día: 0
-2026-01-05 18:42:13 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-01-05 18:42:13 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_04012026_v2.pdf
-2026-01-05 18:42:13 - INFO - Empty DataFrame
+2026-01-06 18:41:17 - INFO - ****************************************************************************************************
+2026-01-06 18:41:22 - INFO - 05 de enero de 2026
+2026-01-06 18:41:22 - INFO - Total de homicidios del día: 0
+2026-01-06 18:41:22 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-01-06 18:41:22 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_05012026_v2.pdf
+2026-01-06 18:41:22 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2026-01-05 18:42:13 - INFO - ****************************************************************************************************
-2026-01-05 18:42:13 - INFO - 03 de enero de 2026
-2026-01-05 18:42:13 - INFO - Total de homicidios del día: 0
-2026-01-05 18:42:13 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-01-05 18:42:13 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_03012026_v2.pdf
-2026-01-05 18:42:13 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-01-05 18:42:13 - INFO - ****************************************************************************************************
-2026-01-05 18:42:13 - INFO - 02 de enero de 2026
-2026-01-05 18:42:14 - INFO - Total de homicidios del día: 0
-2026-01-05 18:42:14 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-01-05 18:42:14 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_02012026_v2.pdf
-2026-01-05 18:42:14 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-01-05 18:42:14 - INFO - ****************************************************************************************************
-2026-01-05 18:42:14 - INFO - 01 de enero de 2026
-2026-01-05 18:42:14 - INFO - Tiempo de ejecución: 00:00:00:05
+2026-01-06 18:41:22 - INFO - ****************************************************************************************************
+2026-01-06 18:41:22 - INFO - Tiempo de ejecución: 00:00:00:05
