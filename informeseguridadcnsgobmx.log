@@ -1,10 +1,10 @@
-2026-01-07 18:42:40 - INFO - ****************************************************************************************************
-2026-01-07 18:42:47 - INFO - 06 de enero de 2026
-2026-01-07 18:42:48 - INFO - Total de homicidios del día: 0
-2026-01-07 18:42:48 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-01-07 18:42:48 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_06012026_v2.pdf
-2026-01-07 18:42:48 - INFO - Empty DataFrame
+2026-01-08 18:38:54 - INFO - ****************************************************************************************************
+2026-01-08 18:38:58 - INFO - 07 de enero de 2026
+2026-01-08 18:38:59 - INFO - Total de homicidios del día: 0
+2026-01-08 18:38:59 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-01-08 18:38:59 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_07012026_v2.pdf
+2026-01-08 18:38:59 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2026-01-07 18:42:48 - INFO - ****************************************************************************************************
-2026-01-07 18:42:48 - INFO - Tiempo de ejecución: 00:00:00:07
+2026-01-08 18:38:59 - INFO - ****************************************************************************************************
+2026-01-08 18:38:59 - INFO - Tiempo de ejecución: 00:00:00:04
