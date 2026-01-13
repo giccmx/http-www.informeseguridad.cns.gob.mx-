@@ -1,27 +1,10 @@
-2026-01-12 18:42:27 - INFO - ****************************************************************************************************
-2026-01-12 18:42:31 - INFO - 11 de enero de 2026
-2026-01-12 18:42:32 - INFO - Total de homicidios del día: 0
-2026-01-12 18:42:32 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-01-12 18:42:32 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_11012026_v2.pdf
-2026-01-12 18:42:32 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
+2026-01-13 18:40:32 - INFO - ****************************************************************************************************
+2026-01-13 18:40:35 - INFO - 12 de enero de 2026
+2026-01-13 18:40:36 - INFO - Total de homicidios del día: 0
+2026-01-13 18:40:36 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-01-13 18:40:36 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_12012026_v2.pdf
+2026-01-13 18:40:36 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 14, 15]
 Index: []
-2026-01-12 18:42:32 - INFO - ****************************************************************************************************
-2026-01-12 18:42:32 - INFO - 10 de enero de 2026
-2026-01-12 18:42:33 - INFO - Total de homicidios del día: 0
-2026-01-12 18:42:33 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-01-12 18:42:33 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_10012026_v2.pdf
-2026-01-12 18:42:33 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-01-12 18:42:33 - INFO - ****************************************************************************************************
-2026-01-12 18:42:33 - INFO - 09 de enero de 2026
-2026-01-12 18:42:33 - INFO - Total de homicidios del día: 0
-2026-01-12 18:42:33 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-01-12 18:42:33 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_09012026_v2.pdf
-2026-01-12 18:42:33 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-01-12 18:42:33 - INFO - ****************************************************************************************************
-2026-01-12 18:42:33 - INFO - 08 de enero de 2026
-2026-01-12 18:42:33 - INFO - Tiempo de ejecución: 00:00:00:05
+2026-01-13 18:40:36 - INFO - ****************************************************************************************************
+2026-01-13 18:40:36 - INFO - Tiempo de ejecución: 00:00:00:04
