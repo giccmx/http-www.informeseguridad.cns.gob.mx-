@@ -1,4 +1,43 @@
-2026-01-30 18:55:15 - INFO - ****************************************************************************************************
-2026-01-30 18:57:30 - ERROR - HTTPConnectionPool(host='www.informeseguridad.cns.gob.mx', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.informeseguridad.cns.gob.mx', port=80) at 0x7f39f5d4e0b0>, 'Connection to www.informeseguridad.cns.gob.mx timed out. (connect timeout=None)'))
-2026-01-30 18:57:30 - ERROR - Ocurrió un error :cannot unpack non-iterable NoneType object
-2026-01-30 18:57:30 - INFO - Tiempo de ejecución: 00:00:02:15
+2026-02-03 19:05:05 - INFO - ****************************************************************************************************
+2026-02-03 19:05:15 - INFO - 02 de febrero de 2026
+2026-02-03 19:05:20 - INFO - Total de homicidios del día: 0
+2026-02-03 19:05:20 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-02-03 19:05:20 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_02022026_v2.pdf
+2026-02-03 19:05:20 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-02-03 19:05:20 - INFO - ****************************************************************************************************
+2026-02-03 19:05:20 - INFO - 01 de febrero de 2026
+2026-02-03 19:05:21 - INFO - Total de homicidios del día: 0
+2026-02-03 19:05:21 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-02-03 19:05:21 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_01022026_v2.pdf
+2026-02-03 19:05:21 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-02-03 19:05:21 - INFO - ****************************************************************************************************
+2026-02-03 19:05:21 - INFO - 31 de enero de 2026
+2026-02-03 19:05:23 - INFO - Total de homicidios del día: 0
+2026-02-03 19:05:23 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-02-03 19:05:23 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_31012026_v2.pdf
+2026-02-03 19:05:23 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-02-03 19:05:23 - INFO - ****************************************************************************************************
+2026-02-03 19:05:23 - INFO - 30 de enero de 2026
+2026-02-03 19:05:23 - INFO - Total de homicidios del día: 0
+2026-02-03 19:05:23 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-02-03 19:05:23 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_30012026_v2.pdf
+2026-02-03 19:05:23 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-02-03 19:05:23 - INFO - ****************************************************************************************************
+2026-02-03 19:05:23 - INFO - 29 de enero de 2026
+2026-02-03 19:05:24 - INFO - Total de homicidios del día: 0
+2026-02-03 19:05:24 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-02-03 19:05:24 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_29012026_v2.pdf
+2026-02-03 19:05:24 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4]
+Index: []
+2026-02-03 19:05:24 - INFO - ****************************************************************************************************
+2026-02-03 19:05:24 - INFO - 28 de enero de 2026
+2026-02-03 19:05:24 - INFO - Tiempo de ejecución: 00:00:00:19
