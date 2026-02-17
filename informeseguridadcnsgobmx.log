@@ -1,27 +1,10 @@
-2026-02-16 18:55:32 - INFO - ****************************************************************************************************
-2026-02-16 18:55:44 - INFO - 15 de febrero de 2026
-2026-02-16 18:55:45 - INFO - Total de homicidios del día: 0
-2026-02-16 18:55:45 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-02-16 18:55:45 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_15022026_v2.pdf
-2026-02-16 18:55:45 - INFO - Empty DataFrame
+2026-02-17 19:06:58 - INFO - ****************************************************************************************************
+2026-02-17 19:07:18 - INFO - 16 de febrero de 2026
+2026-02-17 19:07:19 - INFO - Total de homicidios del día: 0
+2026-02-17 19:07:19 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-02-17 19:07:19 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_16022026_v2.pdf
+2026-02-17 19:07:19 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2026-02-16 18:55:45 - INFO - ****************************************************************************************************
-2026-02-16 18:55:45 - INFO - 14 de febrero de 2026
-2026-02-16 18:55:46 - INFO - Total de homicidios del día: 0
-2026-02-16 18:55:46 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-02-16 18:55:46 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_14022026_v2.pdf
-2026-02-16 18:55:46 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-02-16 18:55:46 - INFO - ****************************************************************************************************
-2026-02-16 18:55:46 - INFO - 13 de febrero de 2026
-2026-02-16 18:55:46 - INFO - Total de homicidios del día: 0
-2026-02-16 18:55:46 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-02-16 18:55:46 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13022026_v2.pdf
-2026-02-16 18:55:46 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-02-16 18:55:46 - INFO - ****************************************************************************************************
-2026-02-16 18:55:46 - INFO - 12 de febrero de 2026
-2026-02-16 18:55:46 - INFO - Tiempo de ejecución: 00:00:00:14
+2026-02-17 19:07:19 - INFO - ****************************************************************************************************
+2026-02-17 19:07:19 - INFO - Tiempo de ejecución: 00:00:00:20
