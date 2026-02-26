@@ -1,10 +1,10 @@
-2026-02-25 19:15:01 - INFO - ****************************************************************************************************
-2026-02-25 19:15:21 - INFO - 24 de febrero de 2026
-2026-02-25 19:15:22 - INFO - Total de homicidios del día: 0
-2026-02-25 19:15:22 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-02-25 19:15:22 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_24022026_v2.pdf
-2026-02-25 19:15:22 - INFO - Empty DataFrame
+2026-02-26 19:01:39 - INFO - ****************************************************************************************************
+2026-02-26 19:01:49 - INFO - 25 de febrero de 2026
+2026-02-26 19:01:50 - INFO - Total de homicidios del día: 0
+2026-02-26 19:01:50 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-02-26 19:01:50 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_25022026_v2.pdf
+2026-02-26 19:01:50 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2026-02-25 19:15:22 - INFO - ****************************************************************************************************
-2026-02-25 19:15:22 - INFO - Tiempo de ejecución: 00:00:00:20
+2026-02-26 19:01:50 - INFO - ****************************************************************************************************
+2026-02-26 19:01:50 - INFO - Tiempo de ejecución: 00:00:00:10
