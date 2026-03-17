@@ -1,1 +1,35 @@
-2026-03-16 19:14:19 - INFO - Día inhabil
+2026-03-17 19:13:23 - INFO - ****************************************************************************************************
+2026-03-17 19:13:26 - INFO - 16 de marzo de 2026
+2026-03-17 19:13:27 - INFO - Total de homicidios del día: 0
+2026-03-17 19:13:27 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-03-17 19:13:27 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_16032026_v2.pdf
+2026-03-17 19:13:27 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-03-17 19:13:27 - INFO - ****************************************************************************************************
+2026-03-17 19:13:27 - INFO - 15 de marzo de 2026
+2026-03-17 19:13:28 - INFO - Total de homicidios del día: 0
+2026-03-17 19:13:28 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-03-17 19:13:28 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_15032026_v2.pdf
+2026-03-17 19:13:28 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-03-17 19:13:28 - INFO - ****************************************************************************************************
+2026-03-17 19:13:28 - INFO - 14 de marzo de 2026
+2026-03-17 19:13:28 - INFO - Total de homicidios del día: 0
+2026-03-17 19:13:28 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-03-17 19:13:28 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_14032026_v2.pdf
+2026-03-17 19:13:28 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-03-17 19:13:28 - INFO - ****************************************************************************************************
+2026-03-17 19:13:28 - INFO - 13 de marzo de 2026
+2026-03-17 19:13:29 - INFO - Total de homicidios del día: 0
+2026-03-17 19:13:29 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-03-17 19:13:29 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13032026_v2.pdf
+2026-03-17 19:13:29 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-03-17 19:13:29 - INFO - ****************************************************************************************************
+2026-03-17 19:13:29 - INFO - 12 de marzo de 2026
+2026-03-17 19:13:29 - INFO - Tiempo de ejecución: 00:00:00:06
