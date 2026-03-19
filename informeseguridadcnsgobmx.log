@@ -1,10 +1,10 @@
-2026-03-18 19:12:30 - INFO - ****************************************************************************************************
-2026-03-18 19:12:38 - INFO - 17 de marzo de 2026
-2026-03-18 19:12:38 - INFO - Total de homicidios del día: 0
-2026-03-18 19:12:38 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-03-18 19:12:38 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_17032026_v2.pdf
-2026-03-18 19:12:38 - INFO - Empty DataFrame
+2026-03-19 19:08:19 - INFO - ****************************************************************************************************
+2026-03-19 19:08:22 - INFO - 18 de marzo de 2026
+2026-03-19 19:08:23 - INFO - Total de homicidios del día: 0
+2026-03-19 19:08:23 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-03-19 19:08:23 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_18032026_v2.pdf
+2026-03-19 19:08:23 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2026-03-18 19:12:38 - INFO - ****************************************************************************************************
-2026-03-18 19:12:38 - INFO - Tiempo de ejecución: 00:00:00:08
+2026-03-19 19:08:23 - INFO - ****************************************************************************************************
+2026-03-19 19:08:23 - INFO - Tiempo de ejecución: 00:00:00:03
