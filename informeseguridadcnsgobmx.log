@@ -1,27 +1,10 @@
-2026-03-23 19:04:22 - INFO - ****************************************************************************************************
-2026-03-23 19:04:25 - INFO - 22 de marzo de 2026
-2026-03-23 19:04:26 - INFO - Total de homicidios del día: 0
-2026-03-23 19:04:26 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-03-23 19:04:26 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_22032026_v2.pdf
-2026-03-23 19:04:26 - INFO - Empty DataFrame
+2026-03-24 19:14:28 - INFO - ****************************************************************************************************
+2026-03-24 19:14:31 - INFO - 23 de marzo de 2026
+2026-03-24 19:14:32 - INFO - Total de homicidios del día: 0
+2026-03-24 19:14:32 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-03-24 19:14:32 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_23032026_v2.pdf
+2026-03-24 19:14:32 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2026-03-23 19:04:26 - INFO - ****************************************************************************************************
-2026-03-23 19:04:26 - INFO - 21 de marzo de 2026
-2026-03-23 19:04:26 - INFO - Total de homicidios del día: 0
-2026-03-23 19:04:26 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-03-23 19:04:26 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_21032026_v2.pdf
-2026-03-23 19:04:26 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-03-23 19:04:26 - INFO - ****************************************************************************************************
-2026-03-23 19:04:26 - INFO - 20 de marzo de 2026
-2026-03-23 19:04:27 - INFO - Total de homicidios del día: 0
-2026-03-23 19:04:27 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-03-23 19:04:27 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_20032026_v2.pdf
-2026-03-23 19:04:27 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 14, 15]
-Index: []
-2026-03-23 19:04:27 - INFO - ****************************************************************************************************
-2026-03-23 19:04:27 - INFO - 19 de marzo de 2026
-2026-03-23 19:04:27 - INFO - Tiempo de ejecución: 00:00:00:05
+2026-03-24 19:14:32 - INFO - ****************************************************************************************************
+2026-03-24 19:14:32 - INFO - Tiempo de ejecución: 00:00:00:03
