@@ -1,10 +1,10 @@
-2026-04-14 19:26:04 - INFO - ****************************************************************************************************
-2026-04-14 19:26:11 - INFO - 13 de abril de 2026
-2026-04-14 19:26:11 - INFO - Total de homicidios del día: 0
-2026-04-14 19:26:11 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-04-14 19:26:11 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13042026_v2.pdf
-2026-04-14 19:26:11 - INFO - Empty DataFrame
+2026-04-15 19:37:40 - INFO - ****************************************************************************************************
+2026-04-15 19:37:47 - INFO - 14 de abril de 2026
+2026-04-15 19:37:48 - INFO - Total de homicidios del día: 0
+2026-04-15 19:37:48 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-04-15 19:37:48 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_14042026_v2.pdf
+2026-04-15 19:37:48 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2026-04-14 19:26:11 - INFO - ****************************************************************************************************
-2026-04-14 19:26:11 - INFO - Tiempo de ejecución: 00:00:00:07
+2026-04-15 19:37:48 - INFO - ****************************************************************************************************
+2026-04-15 19:37:48 - INFO - Tiempo de ejecución: 00:00:00:08
