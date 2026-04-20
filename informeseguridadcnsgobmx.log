@@ -1,10 +1,27 @@
-2026-04-17 19:11:39 - INFO - ****************************************************************************************************
-2026-04-17 19:11:45 - INFO - 16 de abril de 2026
-2026-04-17 19:11:46 - INFO - Total de homicidios del día: 0
-2026-04-17 19:11:46 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-04-17 19:11:46 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_16042026_v2.pdf
-2026-04-17 19:11:46 - INFO - Empty DataFrame
+2026-04-20 19:17:35 - INFO - ****************************************************************************************************
+2026-04-20 19:17:41 - INFO - 19 de abril de 2026
+2026-04-20 19:17:46 - INFO - Total de homicidios del día: 0
+2026-04-20 19:17:46 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-04-20 19:17:46 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_19042026_v2.pdf
+2026-04-20 19:17:46 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2026-04-17 19:11:46 - INFO - ****************************************************************************************************
-2026-04-17 19:11:46 - INFO - Tiempo de ejecución: 00:00:00:07
+2026-04-20 19:17:46 - INFO - ****************************************************************************************************
+2026-04-20 19:17:46 - INFO - 18 de abril de 2026
+2026-04-20 19:17:46 - INFO - Total de homicidios del día: 0
+2026-04-20 19:17:46 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-04-20 19:17:46 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_18042026_v2.pdf
+2026-04-20 19:17:46 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-04-20 19:17:46 - INFO - ****************************************************************************************************
+2026-04-20 19:17:46 - INFO - 17 de abril de 2026
+2026-04-20 19:17:51 - INFO - Total de homicidios del día: 0
+2026-04-20 19:17:51 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-04-20 19:17:51 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_17042026_v2.pdf
+2026-04-20 19:17:51 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-04-20 19:17:51 - INFO - ****************************************************************************************************
+2026-04-20 19:17:51 - INFO - 16 de abril de 2026
+2026-04-20 19:17:51 - INFO - Tiempo de ejecución: 00:00:00:16
