@@ -1,10 +1,27 @@
-2026-05-22 19:58:06 - INFO - ****************************************************************************************************
-2026-05-22 19:58:14 - INFO - 21 de mayo de 2026
-2026-05-22 19:58:15 - INFO - Total de homicidios del día: 0
-2026-05-22 19:58:15 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-05-22 19:58:15 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_21052026_v2.pdf
-2026-05-22 19:58:15 - INFO - Empty DataFrame
+2026-05-25 19:50:56 - INFO - ****************************************************************************************************
+2026-05-25 19:51:02 - INFO - 24 de mayo de 2026
+2026-05-25 19:51:03 - INFO - Total de homicidios del día: 0
+2026-05-25 19:51:03 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-05-25 19:51:03 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_24052026_v2.pdf
+2026-05-25 19:51:03 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2026-05-22 19:58:15 - INFO - ****************************************************************************************************
-2026-05-22 19:58:15 - INFO - Tiempo de ejecución: 00:00:00:08
+2026-05-25 19:51:03 - INFO - ****************************************************************************************************
+2026-05-25 19:51:03 - INFO - 23 de mayo de 2026
+2026-05-25 19:51:04 - INFO - Total de homicidios del día: 0
+2026-05-25 19:51:04 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-05-25 19:51:04 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_23052026_v2.pdf
+2026-05-25 19:51:04 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-05-25 19:51:04 - INFO - ****************************************************************************************************
+2026-05-25 19:51:04 - INFO - 22 de mayo de 2026
+2026-05-25 19:51:04 - INFO - Total de homicidios del día: 0
+2026-05-25 19:51:04 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-05-25 19:51:04 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_22052026_v2.pdf
+2026-05-25 19:51:04 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 16, 17]
+Index: []
+2026-05-25 19:51:04 - INFO - ****************************************************************************************************
+2026-05-25 19:51:04 - INFO - 21 de mayo de 2026
+2026-05-25 19:51:04 - INFO - Tiempo de ejecución: 00:00:00:08
