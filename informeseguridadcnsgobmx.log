@@ -1,10 +1,10 @@
-2026-06-10 20:39:54 - INFO - ****************************************************************************************************
-2026-06-10 20:40:01 - INFO - 09 de junio de 2026
-2026-06-10 20:40:02 - INFO - Total de homicidios del día: 0
-2026-06-10 20:40:02 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-06-10 20:40:02 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_09062026_v2.pdf
-2026-06-10 20:40:02 - INFO - Empty DataFrame
+2026-06-11 20:30:14 - INFO - ****************************************************************************************************
+2026-06-11 20:30:20 - INFO - 10 de junio de 2026
+2026-06-11 20:30:21 - INFO - Total de homicidios del día: 0
+2026-06-11 20:30:21 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-06-11 20:30:21 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_10062026_v2.pdf
+2026-06-11 20:30:21 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2026-06-10 20:40:02 - INFO - ****************************************************************************************************
-2026-06-10 20:40:02 - INFO - Tiempo de ejecución: 00:00:00:08
+2026-06-11 20:30:21 - INFO - ****************************************************************************************************
+2026-06-11 20:30:21 - INFO - Tiempo de ejecución: 00:00:00:07
