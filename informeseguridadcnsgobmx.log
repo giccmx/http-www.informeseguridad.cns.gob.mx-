@@ -1,27 +1,10 @@
-2026-06-15 21:12:17 - INFO - ****************************************************************************************************
-2026-06-15 21:12:30 - INFO - 14 de junio de 2026
-2026-06-15 21:12:31 - INFO - Total de homicidios del día: 0
-2026-06-15 21:12:31 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-06-15 21:12:31 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_14062026_v2.pdf
-2026-06-15 21:12:31 - INFO - Empty DataFrame
+2026-06-16 21:11:46 - INFO - ****************************************************************************************************
+2026-06-16 21:11:53 - INFO - 15 de junio de 2026
+2026-06-16 21:11:53 - INFO - Total de homicidios del día: 0
+2026-06-16 21:11:53 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-06-16 21:11:53 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_15062026_v2.pdf
+2026-06-16 21:11:53 - INFO - Empty DataFrame
 Columns: [Entidades, recuento, 4, 5]
 Index: []
-2026-06-15 21:12:31 - INFO - ****************************************************************************************************
-2026-06-15 21:12:31 - INFO - 13 de junio de 2026
-2026-06-15 21:12:32 - INFO - Total de homicidios del día: 0
-2026-06-15 21:12:32 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-06-15 21:12:32 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13062026_v2.pdf
-2026-06-15 21:12:32 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-06-15 21:12:32 - INFO - ****************************************************************************************************
-2026-06-15 21:12:32 - INFO - 12 de junio de 2026
-2026-06-15 21:12:33 - INFO - Total de homicidios del día: 0
-2026-06-15 21:12:33 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-06-15 21:12:33 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_12062026_v2.pdf
-2026-06-15 21:12:33 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-06-15 21:12:33 - INFO - ****************************************************************************************************
-2026-06-15 21:12:33 - INFO - 11 de junio de 2026
-2026-06-15 21:12:33 - INFO - Tiempo de ejecución: 00:00:00:15
+2026-06-16 21:11:53 - INFO - ****************************************************************************************************
+2026-06-16 21:11:53 - INFO - Tiempo de ejecución: 00:00:00:07
