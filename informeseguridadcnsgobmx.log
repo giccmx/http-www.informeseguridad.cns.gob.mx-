@@ -1,10 +1,27 @@
-2026-06-26 19:59:44 - INFO - ****************************************************************************************************
-2026-06-26 19:59:52 - INFO - 25 de junio de 2026
-2026-06-26 19:59:53 - INFO - Total de homicidios del día: 0
-2026-06-26 19:59:53 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-06-26 19:59:53 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_25062026_v2.pdf
-2026-06-26 19:59:53 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 15, 16]
+2026-06-29 20:11:58 - INFO - ****************************************************************************************************
+2026-06-29 20:12:04 - INFO - 28 de junio de 2026
+2026-06-29 20:12:06 - INFO - Total de homicidios del día: 0
+2026-06-29 20:12:06 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-06-29 20:12:06 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_28062026_v2.pdf
+2026-06-29 20:12:06 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 17, 18]
 Index: []
-2026-06-26 19:59:53 - INFO - ****************************************************************************************************
-2026-06-26 19:59:53 - INFO - Tiempo de ejecución: 00:00:00:08
+2026-06-29 20:12:06 - INFO - ****************************************************************************************************
+2026-06-29 20:12:06 - INFO - 27 de junio de 2026
+2026-06-29 20:12:06 - INFO - Total de homicidios del día: 0
+2026-06-29 20:12:06 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-06-29 20:12:06 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_27062026_v2.pdf
+2026-06-29 20:12:06 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-06-29 20:12:06 - INFO - ****************************************************************************************************
+2026-06-29 20:12:06 - INFO - 26 de junio de 2026
+2026-06-29 20:12:07 - INFO - Total de homicidios del día: 0
+2026-06-29 20:12:07 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-06-29 20:12:07 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_26062026_v2.pdf
+2026-06-29 20:12:07 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-06-29 20:12:07 - INFO - ****************************************************************************************************
+2026-06-29 20:12:07 - INFO - 25 de junio de 2026
+2026-06-29 20:12:07 - INFO - Tiempo de ejecución: 00:00:00:09
