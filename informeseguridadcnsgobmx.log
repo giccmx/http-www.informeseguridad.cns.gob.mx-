@@ -1,10 +1,27 @@
-2026-07-10 19:42:37 - INFO - ****************************************************************************************************
-2026-07-10 19:42:45 - INFO - 09 de julio de 2026
-2026-07-10 19:42:46 - INFO - Total de homicidios del día: 0
-2026-07-10 19:42:46 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-07-10 19:42:46 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_09072026_v2.pdf
-2026-07-10 19:42:46 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 13, 14]
+2026-07-13 19:38:33 - INFO - ****************************************************************************************************
+2026-07-13 19:38:39 - INFO - 12 de julio de 2026
+2026-07-13 19:38:40 - INFO - Total de homicidios del día: 0
+2026-07-13 19:38:40 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-07-13 19:38:40 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_12072026_v2.pdf
+2026-07-13 19:38:40 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 16, 17]
 Index: []
-2026-07-10 19:42:46 - INFO - ****************************************************************************************************
-2026-07-10 19:42:46 - INFO - Tiempo de ejecución: 00:00:00:09
+2026-07-13 19:38:40 - INFO - ****************************************************************************************************
+2026-07-13 19:38:40 - INFO - 11 de julio de 2026
+2026-07-13 19:38:40 - INFO - Total de homicidios del día: 0
+2026-07-13 19:38:40 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-07-13 19:38:40 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_11072026_v2.pdf
+2026-07-13 19:38:40 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-07-13 19:38:40 - INFO - ****************************************************************************************************
+2026-07-13 19:38:40 - INFO - 10 de julio de 2026
+2026-07-13 19:38:41 - INFO - Total de homicidios del día: 0
+2026-07-13 19:38:41 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-07-13 19:38:41 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_10072026_v2.pdf
+2026-07-13 19:38:41 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 4, 5]
+Index: []
+2026-07-13 19:38:41 - INFO - ****************************************************************************************************
+2026-07-13 19:38:41 - INFO - 09 de julio de 2026
+2026-07-13 19:38:41 - INFO - Tiempo de ejecución: 00:00:00:08
