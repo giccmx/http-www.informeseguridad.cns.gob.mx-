@@ -1,27 +1,10 @@
-2026-07-13 19:38:33 - INFO - ****************************************************************************************************
-2026-07-13 19:38:39 - INFO - 12 de julio de 2026
-2026-07-13 19:38:40 - INFO - Total de homicidios del día: 0
-2026-07-13 19:38:40 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-07-13 19:38:40 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_12072026_v2.pdf
-2026-07-13 19:38:40 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 16, 17]
+2026-07-14 19:36:11 - INFO - ****************************************************************************************************
+2026-07-14 19:36:19 - INFO - 13 de julio de 2026
+2026-07-14 19:36:20 - INFO - Total de homicidios del día: 0
+2026-07-14 19:36:20 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-07-14 19:36:20 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13072026_v2.pdf
+2026-07-14 19:36:20 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 15, 16]
 Index: []
-2026-07-13 19:38:40 - INFO - ****************************************************************************************************
-2026-07-13 19:38:40 - INFO - 11 de julio de 2026
-2026-07-13 19:38:40 - INFO - Total de homicidios del día: 0
-2026-07-13 19:38:40 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-07-13 19:38:40 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_11072026_v2.pdf
-2026-07-13 19:38:40 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-07-13 19:38:40 - INFO - ****************************************************************************************************
-2026-07-13 19:38:40 - INFO - 10 de julio de 2026
-2026-07-13 19:38:41 - INFO - Total de homicidios del día: 0
-2026-07-13 19:38:41 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-07-13 19:38:41 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_10072026_v2.pdf
-2026-07-13 19:38:41 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-07-13 19:38:41 - INFO - ****************************************************************************************************
-2026-07-13 19:38:41 - INFO - 09 de julio de 2026
-2026-07-13 19:38:41 - INFO - Tiempo de ejecución: 00:00:00:08
+2026-07-14 19:36:20 - INFO - ****************************************************************************************************
+2026-07-14 19:36:20 - INFO - Tiempo de ejecución: 00:00:00:09
