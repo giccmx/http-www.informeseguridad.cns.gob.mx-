@@ -1,10 +1,10 @@
-2026-07-14 19:36:11 - INFO - ****************************************************************************************************
-2026-07-14 19:36:19 - INFO - 13 de julio de 2026
-2026-07-14 19:36:20 - INFO - Total de homicidios del día: 0
-2026-07-14 19:36:20 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-07-14 19:36:20 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13072026_v2.pdf
-2026-07-14 19:36:20 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 15, 16]
+2026-07-15 19:21:44 - INFO - ****************************************************************************************************
+2026-07-15 19:21:51 - INFO - 14 de julio de 2026
+2026-07-15 19:21:52 - INFO - Total de homicidios del día: 0
+2026-07-15 19:21:52 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-07-15 19:21:52 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_14072026_v2.pdf
+2026-07-15 19:21:52 - INFO - Empty DataFrame
+Columns: [Entidades, recuento, 14, 15]
 Index: []
-2026-07-14 19:36:20 - INFO - ****************************************************************************************************
-2026-07-14 19:36:20 - INFO - Tiempo de ejecución: 00:00:00:09
+2026-07-15 19:21:52 - INFO - ****************************************************************************************************
+2026-07-15 19:21:52 - INFO - Tiempo de ejecución: 00:00:00:08
