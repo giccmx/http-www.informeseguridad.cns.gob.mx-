@@ -1,10 +1,4 @@
-2026-07-21 19:41:06 - INFO - ****************************************************************************************************
-2026-07-21 19:41:13 - INFO - 20 de julio de 2026
-2026-07-21 19:41:14 - INFO - Total de homicidios del día: 0
-2026-07-21 19:41:14 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-07-21 19:41:14 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_20072026_v2.pdf
-2026-07-21 19:41:14 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-07-21 19:41:14 - INFO - ****************************************************************************************************
-2026-07-21 19:41:14 - INFO - Tiempo de ejecución: 00:00:00:08
+2026-07-22 19:35:57 - INFO - ****************************************************************************************************
+2026-07-22 19:38:11 - ERROR - HTTPConnectionPool(host='www.informeseguridad.cns.gob.mx', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.informeseguridad.cns.gob.mx', port=80) at 0x7effa97fabc0>, 'Connection to www.informeseguridad.cns.gob.mx timed out. (connect timeout=None)'))
+2026-07-22 19:38:11 - ERROR - Ocurrió un error :cannot unpack non-iterable NoneType object
+2026-07-22 19:38:11 - INFO - Tiempo de ejecución: 00:00:02:13
