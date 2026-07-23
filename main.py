@@ -1,13 +1,14 @@
 import os
-import io
+import re
+import fitz
 import time
 import shutil
 import logging
 import requests
 import warnings
 import traceback
-import pdfplumber
 import pandas as pd
+from io import BytesIO
 from bs4 import BeautifulSoup
 from datetime import date, timedelta, datetime
 
@@ -63,24 +64,59 @@ def table_extractor(pdf_url):
   
   try:
     
-    response = requests.get(pdf_url)
-    response.raise_for_status()
-    pdf_file = io.BytesIO(response.content)
+    respuesta = requests.get(url)
+    if respuesta.status_code != 200:
+        raise Exception(f"Error al descargar el PDF: {respuesta.status_code}")
 
-    with pdfplumber.open(pdf_file) as pdf:
-        page = pdf.pages[0]
-        tables = page.extract_tables({
-            'vertical_strategy':'text',
-            'horizontal_strategy':'text',
-            'intersection_tolerance':5,
-            })
-    
-    tables = tables[-1:]
+    archivo_pdf = BytesIO(respuesta.content)
+    documento = fitz.open(stream=archivo_pdf, filetype="pdf")
+    texto = documento[0].get_text()
 
-    for i, table in enumerate(tables):
-        
-        table = [[v for v in sub if v] for sub in table if any(v for v in sub if v)]
-        df = pd.DataFrame(table)
+    estados_validos = [
+    'Aguascalientes', 'Baja California', 'Baja California Sur', 'Campeche',
+    'Chiapas', 'Chihuahua', 'Ciudad De México', 'Coahuila', 'Colima', 'Durango',
+    'Estado De México', 'Guanajuato', 'Guerrero', 'Hidalgo', 'Jalisco', 'Michoacán',
+    'Morelos', 'Nayarit', 'Nuevo León', 'Oaxaca', 'Puebla', 'Querétaro', 'Quintana Roo',
+    'San Luis Potosí', 'Sinaloa', 'Sonora', 'Tabasco', 'Tamaulipas', 'Tlaxcala',
+    'Veracruz', 'Yucatán', 'Zacatecas'
+    ]
+
+    patron = r'(\d{1,3})\s+([A-ZÁÉÍÓÚÑ\s]+)'
+    coincidencias = re.findall(patron, texto)
+
+    datos = [(estado.strip().title(), int(numero)) 
+             for numero, estado in coincidencias if "TOTAL" not in estado]
+
+    df = pd.DataFrame(datos, columns=["Entidades", "Recuento"])
+    df = df[df["Recuento"] > 0]
+    df = df[df["Entidades"].isin(estados_validos)]
+
+    # Ordenar de mayor a menorestados_validos = [
+    'Aguascalientes', 'Baja California', 'Baja California Sur', 'Campeche',
+    'Chiapas', 'Chihuahua', 'Ciudad De México', 'Coahuila', 'Colima', 'Durango',
+    'Estado De México', 'Guanajuato', 'Guerrero', 'Hidalgo', 'Jalisco', 'Michoacán',
+    'Morelos', 'Nayarit', 'Nuevo León', 'Oaxaca', 'Puebla', 'Querétaro', 'Quintana Roo',
+    'San Luis Potosí', 'Sinaloa', 'Sonora', 'Tabasco', 'Tamaulipas', 'Tlaxcala',
+    'Veracruz', 'Yucatán', 'Zacatecas'
+    ]
+
+    patron = r'(\d{1,3})\s+([A-ZÁÉÍÓÚÑ\s]+)'
+    coincidencias = re.findall(patron, texto)
+
+    datos = [(estado.strip().title(), int(numero)) 
+             for numero, estado in coincidencias if "TOTAL" not in estado]
+
+    df = pd.DataFrame(datos, columns=["Entidades", "Recuento"])
+
+    # Filtrar homicidios > 0
+    df = df[df["Recuento"] > 0]
+
+    # Eliminar filas con estados no válidos
+    df = df[df["Entidades"].isin(estados_validos)]
+
+    # Ordenar de mayor a menor
+    df = df.sort_values(by="Recuento", ascending=False).reset_index(drop=True)
+    df = df.sort_values(by="Recuento", ascending=False).reset_index(drop=True)
 
     df1 = df.iloc[:, [0, 1]][:-1].rename(columns={0: 'Entidades', 1:'recuento'})
     df2 = df.iloc[:, [-2, -1]][:-1].rename(columns={2: 'Entidades', 3:'recuento'})
@@ -97,6 +133,7 @@ def table_extractor(pdf_url):
     logging.info(f'Total de Entidades que reportaron homicidio: {str(recuento_entidades)}')
     logging.info('Fuente: '+pdf_url)
     logging.info(infseg)
+    infseg.to_csv()
 
     logging.info('*'*100)
 
