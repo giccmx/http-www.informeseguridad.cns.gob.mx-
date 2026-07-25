@@ -1,5 +1,4 @@
-fitz
-pandas
-pymupdf
+PyMuPDF
 requests
+pandas
 beautifulsoup4
