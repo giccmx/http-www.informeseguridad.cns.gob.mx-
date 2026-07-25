@@ -1,23 +1,28 @@
-<<<<<<< Updated upstream
-2026-07-23 19:35:35 - INFO - ****************************************************************************************************
-2026-07-23 19:35:45 - INFO - 22 de julio de 2026
-2026-07-23 19:35:47 - INFO - Total de homicidios del día: 0
-2026-07-23 19:35:47 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-07-23 19:35:47 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_22072026_v2.pdf
-2026-07-23 19:35:47 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-07-23 19:35:47 - INFO - ****************************************************************************************************
-2026-07-23 19:35:47 - INFO - Tiempo de ejecución: 00:00:00:12
-=======
-2026-07-24 00:03:22 - INFO - ****************************************************************************************************
-2026-07-24 00:03:29 - INFO - 22 de julio de 2026
-2026-07-24 00:03:30 - INFO - Total de homicidios del día: 0
-2026-07-24 00:03:30 - INFO - Total de Entidades que reportaron homicidio: 0
-2026-07-24 00:03:30 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_22072026_v2.pdf
-2026-07-24 00:03:30 - INFO - Empty DataFrame
-Columns: [Entidades, recuento, 4, 5]
-Index: []
-2026-07-24 00:03:30 - INFO - ****************************************************************************************************
-2026-07-24 00:03:30 - INFO - Tiempo de ejecución: 00:00:00:08
->>>>>>> Stashed changes
+2026-07-25 10:47:20 - INFO - ****************************************************************************************************
+2026-07-25 10:47:28 - INFO - 23 de julio de 2026
+2026-07-25 10:47:29 - INFO - Total de homicidios del día: 38
+2026-07-25 10:47:29 - INFO - Total de Entidades que reportaron homicidio: 19
+2026-07-25 10:47:29 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_23072026_v2.pdf
+2026-07-25 10:47:29 - INFO - 
+           Entidades  Recuento
+0            Sinaloa         7
+1    Baja California         3
+2         Guanajuato         3
+3            Tabasco         3
+4            Hidalgo         3
+5   Estado De México         3
+6   Ciudad De México         2
+7            Morelos         2
+8             Puebla         2
+9           Guerrero         1
+10            Sonora         1
+11           Chiapas         1
+12         Michoacán         1
+13           Jalisco         1
+14        Tamaulipas         1
+15        Nuevo León         1
+16          Coahuila         1
+17            Oaxaca         1
+18          Veracruz         1
+2026-07-25 10:47:29 - INFO - ****************************************************************************************************
+2026-07-25 10:47:29 - INFO - Tiempo de ejecución: 00:00:00:09
