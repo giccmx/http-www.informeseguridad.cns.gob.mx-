@@ -13,9 +13,7 @@ from bs4 import BeautifulSoup
 from datetime import date, timedelta, datetime
 
 def format_time_exec(initial):
-
     try:
-        
         fin = time.time()
         duracion = int(fin - initial)
         dias = duracion // 86400
@@ -24,170 +22,130 @@ def format_time_exec(initial):
         segundos = duracion % 60
 
         return f"Tiempo de ejecución: {dias:02d}:{horas:02d}:{minutos:02d}:{segundos:02d}"
-    
     except Exception as e:
-
         traceback.print_exc()
         logging.error(str(e))
 
-def get_url_cns(url,type_query):
-  
-  try:
+def get_url_cns(url, type_query):
+    try:
+        response = requests.get(url)
+        html = response.text
+        soup = BeautifulSoup(html, "html.parser")
+        filas = soup.find_all("tr")
 
-    response = requests.get(url)
-    html = response.text
-    soup = BeautifulSoup(html, "html.parser")
-    filas = soup.find_all("tr")
+        if type_query == 'dayli':
+            ultima_fila = filas[1]
+            p_tag = ultima_fila.find("p")
+            a_tag = ultima_fila.find("a")
 
-    if type_query == 'dayli':
-        
-        ultima_fila = filas[1]
-        p_tag = ultima_fila.find("p")
-        a_tag = ultima_fila.find("a")
+            texto_p = p_tag.get_text(strip=True) if p_tag else None
+            href_a = a_tag.get("href") if a_tag else None
 
-        texto_p = p_tag.get_text(strip=True) if p_tag else None
-        href_a = a_tag.get("href") if a_tag else None
+            logging.info(texto_p)
 
-        logging.info(texto_p)
-
-        return str(url+'/'+href_a), texto_p
-    
-    else:
-        return filas
-    
-  except Exception as e:
-      
-      traceback.print_exc()
-      logging.error(str(e))
+            return str(url + '/' + href_a), texto_p
+        else:
+            return filas
+    except Exception as e:
+        traceback.print_exc()
+        logging.error(str(e))
 
 def table_extractor(pdf_url):
-  
-  try:
-    
-    respuesta = requests.get(url)
-    if respuesta.status_code != 200:
-        raise Exception(f"Error al descargar el PDF: {respuesta.status_code}")
+    """
+    Descarga el PDF, extrae el texto de la primera página y genera el DataFrame
+    limpio utilizando la lógica regex funcional.
+    """
+    try:
+        # CORRECCIÓN: Usar pdf_url en lugar de url
+        respuesta = requests.get(pdf_url)
+        if respuesta.status_code != 200:
+            raise Exception(f"Error al descargar el PDF: {respuesta.status_code}")
 
-    archivo_pdf = BytesIO(respuesta.content)
-    documento = fitz.open(stream=archivo_pdf, filetype="pdf")
-    texto = documento[0].get_text()
+        archivo_pdf = BytesIO(respuesta.content)
+        documento = fitz.open(stream=archivo_pdf, filetype="pdf")
+        texto = documento[0].get_text()
 
-    estados_validos = [
-    'Aguascalientes', 'Baja California', 'Baja California Sur', 'Campeche',
-    'Chiapas', 'Chihuahua', 'Ciudad De México', 'Coahuila', 'Colima', 'Durango',
-    'Estado De México', 'Guanajuato', 'Guerrero', 'Hidalgo', 'Jalisco', 'Michoacán',
-    'Morelos', 'Nayarit', 'Nuevo León', 'Oaxaca', 'Puebla', 'Querétaro', 'Quintana Roo',
-    'San Luis Potosí', 'Sinaloa', 'Sonora', 'Tabasco', 'Tamaulipas', 'Tlaxcala',
-    'Veracruz', 'Yucatán', 'Zacatecas'
-    ]
+        estados_validos = [
+            'Aguascalientes', 'Baja California', 'Baja California Sur', 'Campeche',
+            'Chiapas', 'Chihuahua', 'Ciudad De México', 'Coahuila', 'Colima', 'Durango',
+            'Estado De México', 'Guanajuato', 'Guerrero', 'Hidalgo', 'Jalisco', 'Michoacán',
+            'Morelos', 'Nayarit', 'Nuevo León', 'Oaxaca', 'Puebla', 'Querétaro', 'Quintana Roo',
+            'San Luis Potosí', 'Sinaloa', 'Sonora', 'Tabasco', 'Tamaulipas', 'Tlaxcala',
+            'Veracruz', 'Yucatán', 'Zacatecas'
+        ]
 
-    patron = r'(\d{1,3})\s+([A-ZÁÉÍÓÚÑ\s]+)'
-    coincidencias = re.findall(patron, texto)
+        # Extraer usando regex
+        patron = r'(\d{1,3})\s+([A-ZÁÉÍÓÚÑ\s]+)'
+        coincidencias = re.findall(patron, texto)
 
-    datos = [(estado.strip().title(), int(numero)) 
-             for numero, estado in coincidencias if "TOTAL" not in estado]
+        datos = [(estado.strip().title(), int(numero)) 
+                 for numero, estado in coincidencias if "TOTAL" not in estado.upper()]
 
-    df = pd.DataFrame(datos, columns=["Entidades", "Recuento"])
-    df = df[df["Recuento"] > 0]
-    df = df[df["Entidades"].isin(estados_validos)]
+        # Crear y limpiar DataFrame
+        df = pd.DataFrame(datos, columns=["Entidades", "Recuento"])
+        df = df[df["Recuento"] > 0]
+        df = df[df["Entidades"].isin(estados_validos)]
+        
+        # Ordenar de mayor a menor
+        infseg = df.sort_values(by="Recuento", ascending=False).reset_index(drop=True)
 
-    # Ordenar de mayor a menorestados_validos = [
-    'Aguascalientes', 'Baja California', 'Baja California Sur', 'Campeche',
-    'Chiapas', 'Chihuahua', 'Ciudad De México', 'Coahuila', 'Colima', 'Durango',
-    'Estado De México', 'Guanajuato', 'Guerrero', 'Hidalgo', 'Jalisco', 'Michoacán',
-    'Morelos', 'Nayarit', 'Nuevo León', 'Oaxaca', 'Puebla', 'Querétaro', 'Quintana Roo',
-    'San Luis Potosí', 'Sinaloa', 'Sonora', 'Tabasco', 'Tamaulipas', 'Tlaxcala',
-    'Veracruz', 'Yucatán', 'Zacatecas'
-    ]
+        total_dia = int(infseg['Recuento'].sum())
+        recuento_entidades = int(infseg['Entidades'].count())
 
-    patron = r'(\d{1,3})\s+([A-ZÁÉÍÓÚÑ\s]+)'
-    coincidencias = re.findall(patron, texto)
+        logging.info(f'Total de homicidios del día: {str(total_dia)}')
+        logging.info(f'Total de Entidades que reportaron homicidio: {str(recuento_entidades)}')
+        logging.info('Fuente: ' + pdf_url)
+        logging.info("\n" + str(infseg))
+        
+        # Guardar en CSV usando el nombre del archivo PDF
+        nombre_csv = pdf_url.split('/')[-1].replace('.pdf', '.csv')
+        infseg.to_csv(nombre_csv, index=False)
 
-    datos = [(estado.strip().title(), int(numero)) 
-             for numero, estado in coincidencias if "TOTAL" not in estado]
+        logging.info('*'*100)
 
-    df = pd.DataFrame(datos, columns=["Entidades", "Recuento"])
+        return infseg, total_dia, recuento_entidades
 
-    # Filtrar homicidios > 0
-    df = df[df["Recuento"] > 0]
-
-    # Eliminar filas con estados no válidos
-    df = df[df["Entidades"].isin(estados_validos)]
-
-    # Ordenar de mayor a menor
-    df = df.sort_values(by="Recuento", ascending=False).reset_index(drop=True)
-    df = df.sort_values(by="Recuento", ascending=False).reset_index(drop=True)
-
-    df1 = df.iloc[:, [0, 1]][:-1].rename(columns={0: 'Entidades', 1:'recuento'})
-    df2 = df.iloc[:, [-2, -1]][:-1].rename(columns={2: 'Entidades', 3:'recuento'})
-
-    infseg = pd.concat([df1,df2], ignore_index=True).dropna()
-
-    infseg = infseg.sort_values(by=infseg.columns[-1], ascending=False)
-    infseg['recuento'] = infseg['recuento'].astype(int)
-    infseg = infseg[infseg['recuento']!=0].reset_index(drop=True)
-    total_dia = int(infseg['recuento'].sum())
-    recuento_entidades = int(infseg['Entidades'].count())
-
-    logging.info(f'Total de homicidios del día: {str(total_dia)}')
-    logging.info(f'Total de Entidades que reportaron homicidio: {str(recuento_entidades)}')
-    logging.info('Fuente: '+pdf_url)
-    logging.info(infseg)
-    infseg.to_csv()
-
-    logging.info('*'*100)
-
-    return infseg, total_dia, recuento_entidades
-
-  except Exception as e:
-    
-    traceback.print_exc()
-    logging.error(str(e))
+    except Exception as e:
+        traceback.print_exc()
+        logging.error(str(e))
+        return None, 0, 0
 
 def clean_log():
-
     nombre_archivo = 'informeseguridadcnsgobmx.log'
 
     string_a_eliminar = [
-                        "WARNING - CropBox missing from /Page, defaulting to MediaBox", 
-                         "WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value",
-                         "WARNING - Cannot set gray non-stroke color because /'P31' is an invalid float value"
-                         ]
+        "WARNING - CropBox missing from /Page, defaulting to MediaBox", 
+        "WARNING - Cannot set gray non-stroke color because /'P17' is an invalid float value",
+        "WARNING - Cannot set gray non-stroke color because /'P31' is an invalid float value"
+    ]
 
-    nombre_temp_archivo =  nombre_archivo + ".temp"
+    nombre_temp_archivo = nombre_archivo + ".temp"
 
     try:
-
-        for str in string_a_eliminar:
-
+        for str_elim in string_a_eliminar:
             with open(nombre_archivo, 'r', encoding='utf-8') as archivo_original, \
-                    open(nombre_temp_archivo, 'w', encoding='utf-8') as archivo_temporal:
+                 open(nombre_temp_archivo, 'w', encoding='utf-8') as archivo_temporal:
                 
                 for linea in archivo_original:
-                    
-                    if str not in linea:
+                    if str_elim not in linea:
                         archivo_temporal.write(linea)
-
         
-        shutil.move(nombre_temp_archivo, nombre_archivo)
-        
+            shutil.move(nombre_temp_archivo, nombre_archivo)
+            
     except FileNotFoundError:
         print(f"Error: El archivo '{nombre_archivo}' no fue encontrado.")
     except Exception as e:
         print(f"Ocurrió un error al procesar el archivo: {e}")
-        
         if os.path.exists(nombre_temp_archivo):
             os.remove(nombre_temp_archivo)
 
 def get_nth_weekday(year, month, weekday, n):
-    
     first_day = date(year, month, 1)
     days_to_add = (weekday - first_day.weekday() + 7) % 7
     first_weekday = first_day + timedelta(days=days_to_add)
     return first_weekday + timedelta(weeks=n - 1)
 
 def holliday(fecha=None):
-
     if fecha is None:
         fecha = date.today()
 
@@ -212,9 +170,7 @@ def holliday(fecha=None):
     return fecha in dias_descanso
 
 def date_convert(date_str):
-
     try:
-
         meses = {
             "enero": "01",
             "febrero": "02",
@@ -228,10 +184,9 @@ def date_convert(date_str):
             "octubre": "10",
             "noviembre": "11",
             "diciembre": "12"
-            }
+        }
         
         try:
-            
             for mes_es, mes_num in meses.items():
                 if mes_es in date_str.lower():
                     partes = date_str.lower().replace(" de ", "-").split("-")
@@ -244,7 +199,6 @@ def date_convert(date_str):
             return None
         
         except Exception as e:
-    
             traceback.print_exc()
             logging.error(str(e))
 
@@ -253,31 +207,24 @@ def date_convert(date_str):
         return None
 
 def last_date(fecha: datetime.date, ruta: str = "./last_date.txt"):
-
     try:
-
         with open(ruta, "w") as archivo:
             archivo.write(fecha.isoformat())
-
     except Exception as e:
-
         traceback.print_exc()
         logging.error(str(e))
 
 def get_data_weekend(url):
-    
     try:
-
         update_final = None
 
         with open('./last_date.txt', "r") as archivo:
             fecha_str = archivo.read().strip()
             lastdate = datetime.strptime(fecha_str, "%Y-%m-%d").date()
 
-        rows = get_url_cns(url,'weekend')
+        rows = get_url_cns(url, 'weekend')
 
         for i, fila in enumerate(rows, start=0):
-
             p_tag = fila.find("p")
             a_tag = fila.find("a")
 
@@ -296,26 +243,25 @@ def get_data_weekend(url):
             if loop_date == lastdate:
                 break
 
-            table_extractor(url+'/'+href_a)
+            table_extractor(url + '/' + href_a)
         
-        last_date(update_final)
+        if update_final:
+            last_date(update_final)
 
         return 'Done'
 
     except Exception as e:
-
         traceback.print_exc()
         logging.error(str(e))
 
-    
 if __name__ == "__main__":
 
     logging.basicConfig(
-    level=logging.INFO,
-    format='%(asctime)s - %(levelname)s - %(message)s',
-    datefmt='%Y-%m-%d %H:%M:%S',
-    filename='informeseguridadcnsgobmx.log',
-    filemode='w'
+        level=logging.INFO,
+        format='%(asctime)s - %(levelname)s - %(message)s',
+        datefmt='%Y-%m-%d %H:%M:%S',
+        filename='informeseguridadcnsgobmx.log',
+        filemode='w'
     )
 
     logging.getLogger("pdfplumber").setLevel(logging.WARNING)
@@ -326,33 +272,26 @@ if __name__ == "__main__":
     fuente = 'http://www.informeseguridad.cns.gob.mx'
           
     if holliday() == False:
-
         try:
-        
             inicio = time.time()
-
             logging.info('*'*100)
 
             if datetime.today().strftime("%A") == 'Monday' or holliday(datetime.now().date() - timedelta(days=1)) == True:
-                
                 get_data_weekend(fuente)
-            
             else:
-                
-                url, fecha = get_url_cns(fuente,'dayli')
+                url, fecha = get_url_cns(fuente, 'dayli')
                 table_extractor(url)
-                last_date(date_convert(fecha))
+                
+                fecha_convertida = date_convert(fecha)
+                if fecha_convertida:
+                    last_date(fecha_convertida)
 
         except Exception as e:
-
             traceback.print_exc()
-            logging.error('Ocurrió un error :'+str(e))
+            logging.error('Ocurrió un error :' + str(e))
 
         finally:
-
             logging.info(str(format_time_exec(inicio)))
             clean_log()
-    
     else:
-        
-        logging.info('Día inhabil')  
+        logging.info('Día inhábil')
