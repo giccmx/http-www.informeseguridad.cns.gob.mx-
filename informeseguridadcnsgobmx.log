@@ -1,76 +1,25 @@
-2026-07-27 19:44:28 - INFO - ****************************************************************************************************
-2026-07-27 19:44:34 - INFO - 26 de julio de 2026
-2026-07-27 19:44:35 - INFO - Total de homicidios del día: 44
-2026-07-27 19:44:35 - INFO - Total de Entidades que reportaron homicidio: 19
-2026-07-27 19:44:35 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_26072026_v2.pdf
-2026-07-27 19:44:35 - INFO - 
+2026-07-28 19:41:50 - INFO - ****************************************************************************************************
+2026-07-28 19:41:58 - INFO - 27 de julio de 2026
+2026-07-28 19:41:59 - INFO - Total de homicidios del día: 33
+2026-07-28 19:41:59 - INFO - Total de Entidades que reportaron homicidio: 16
+2026-07-28 19:41:59 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_27072026_v2.pdf
+2026-07-28 19:41:59 - INFO - 
            Entidades  Recuento
-0          Chihuahua         5
-1             Oaxaca         4
-2           Veracruz         4
-3   Ciudad De México         4
-4             Puebla         3
-5    Baja California         3
-6             Sonora         3
-7   Estado De México         3
-8         Tamaulipas         2
-9            Tabasco         2
-10         Michoacán         2
-11           Morelos         2
-12        Guanajuato         1
-13          Guerrero         1
-14           Jalisco         1
-15          Campeche         1
-16           Sinaloa         1
-17        Nuevo León         1
-18          Coahuila         1
-2026-07-27 19:44:35 - INFO - ****************************************************************************************************
-2026-07-27 19:44:35 - INFO - 25 de julio de 2026
-2026-07-27 19:44:35 - INFO - Total de homicidios del día: 37
-2026-07-27 19:44:35 - INFO - Total de Entidades que reportaron homicidio: 18
-2026-07-27 19:44:35 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_25072026_v2.pdf
-2026-07-27 19:44:35 - INFO - 
-              Entidades  Recuento
-0      Ciudad De México         4
-1             Chihuahua         4
-2      Estado De México         4
-3       Baja California         3
-4               Morelos         3
-5              Veracruz         3
-6            Guanajuato         2
-7              Guerrero         2
-8               Jalisco         2
-9             Michoacán         2
-10               Sonora         1
-11  Baja California Sur         1
-12              Hidalgo         1
-13              Sinaloa         1
-14           Nuevo León         1
-15             Coahuila         1
-16               Colima         1
-17               Puebla         1
-2026-07-27 19:44:35 - INFO - ****************************************************************************************************
-2026-07-27 19:44:35 - INFO - 24 de julio de 2026
-2026-07-27 19:44:36 - INFO - Total de homicidios del día: 34
-2026-07-27 19:44:36 - INFO - Total de Entidades que reportaron homicidio: 15
-2026-07-27 19:44:36 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_24072026_v2.pdf
-2026-07-27 19:44:36 - INFO - 
-           Entidades  Recuento
-0    Baja California         5
-1            Jalisco         4
-2         Guanajuato         3
-3            Sinaloa         3
-4           Guerrero         2
-5          Michoacán         2
-6            Tabasco         2
-7         Nuevo León         2
-8          Chihuahua         2
-9            Morelos         2
-10  Ciudad De México         2
-11  Estado De México         2
-12            Sonora         1
-13            Oaxaca         1
-14            Puebla         1
-2026-07-27 19:44:36 - INFO - ****************************************************************************************************
-2026-07-27 19:44:36 - INFO - 23 de julio de 2026
-2026-07-27 19:44:36 - INFO - Tiempo de ejecución: 00:00:00:07
+0         Guanajuato         3
+1            Sinaloa         3
+2            Jalisco         3
+3          Chihuahua         3
+4   Ciudad De México         3
+5   Estado De México         3
+6          Michoacán         2
+7            Chiapas         2
+8             Oaxaca         2
+9         Nuevo León         2
+10           Morelos         2
+11           Hidalgo         1
+12   Baja California         1
+13      Quintana Roo         1
+14           Tabasco         1
+15          Veracruz         1
+2026-07-28 19:41:59 - INFO - ****************************************************************************************************
+2026-07-28 19:41:59 - INFO - Tiempo de ejecución: 00:00:00:08
