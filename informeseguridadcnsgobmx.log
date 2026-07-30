@@ -1,22 +1,29 @@
-2026-07-29 19:33:15 - INFO - ****************************************************************************************************
-2026-07-29 19:33:22 - INFO - 28 de julio de 2026
-2026-07-29 19:33:23 - INFO - Total de homicidios del día: 38
-2026-07-29 19:33:23 - INFO - Total de Entidades que reportaron homicidio: 13
-2026-07-29 19:33:23 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_28072026_v2.pdf
-2026-07-29 19:33:23 - INFO - 
+2026-07-30 19:42:50 - INFO - ****************************************************************************************************
+2026-07-30 19:42:56 - INFO - 29 de julio de 2026
+2026-07-30 19:42:56 - INFO - Total de homicidios del día: 51
+2026-07-30 19:42:56 - INFO - Total de Entidades que reportaron homicidio: 20
+2026-07-30 19:42:56 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_29072026_v2.pdf
+2026-07-30 19:42:56 - INFO - 
            Entidades  Recuento
-0          Chihuahua        10
-1   Ciudad De México         4
-2         Guanajuato         4
-3            Morelos         3
-4             Oaxaca         3
-5          Michoacán         2
-6             Sonora         2
-7            Jalisco         2
-8    Baja California         2
-9   Estado De México         2
-10           Tabasco         2
-11          Guerrero         1
-12         Querétaro         1
-2026-07-29 19:33:23 - INFO - ****************************************************************************************************
-2026-07-29 19:33:23 - INFO - Tiempo de ejecución: 00:00:00:08
+0           Guerrero         9
+1         Guanajuato         8
+2            Jalisco         4
+3    Baja California         3
+4   Ciudad De México         3
+5          Chihuahua         3
+6   Estado De México         2
+7          Michoacán         2
+8            Tabasco         2
+9             Puebla         2
+10           Morelos         2
+11           Sinaloa         2
+12          Veracruz         2
+13           Hidalgo         1
+14          Campeche         1
+15            Sonora         1
+16           Chiapas         1
+17        Tamaulipas         1
+18        Nuevo León         1
+19            Oaxaca         1
+2026-07-30 19:42:56 - INFO - ****************************************************************************************************
+2026-07-30 19:42:56 - INFO - Tiempo de ejecución: 00:00:00:06
