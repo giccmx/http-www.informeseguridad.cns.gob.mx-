@@ -1,29 +1,24 @@
-2026-07-30 19:42:50 - INFO - ****************************************************************************************************
-2026-07-30 19:42:56 - INFO - 29 de julio de 2026
-2026-07-30 19:42:56 - INFO - Total de homicidios del día: 51
-2026-07-30 19:42:56 - INFO - Total de Entidades que reportaron homicidio: 20
-2026-07-30 19:42:56 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_29072026_v2.pdf
-2026-07-30 19:42:56 - INFO - 
+2026-07-31 19:43:49 - INFO - ****************************************************************************************************
+2026-07-31 19:43:57 - INFO - 30 de julio de 2026
+2026-07-31 19:43:58 - INFO - Total de homicidios del día: 32
+2026-07-31 19:43:58 - INFO - Total de Entidades que reportaron homicidio: 15
+2026-07-31 19:43:58 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_30072026_v2.pdf
+2026-07-31 19:43:58 - INFO - 
            Entidades  Recuento
-0           Guerrero         9
-1         Guanajuato         8
-2            Jalisco         4
-3    Baja California         3
-4   Ciudad De México         3
-5          Chihuahua         3
-6   Estado De México         2
-7          Michoacán         2
-8            Tabasco         2
-9             Puebla         2
-10           Morelos         2
-11           Sinaloa         2
-12          Veracruz         2
-13           Hidalgo         1
-14          Campeche         1
-15            Sonora         1
-16           Chiapas         1
-17        Tamaulipas         1
-18        Nuevo León         1
-19            Oaxaca         1
-2026-07-30 19:42:56 - INFO - ****************************************************************************************************
-2026-07-30 19:42:56 - INFO - Tiempo de ejecución: 00:00:00:06
+0   Estado De México         6
+1             Sonora         4
+2          Michoacán         3
+3   Ciudad De México         3
+4             Oaxaca         3
+5            Tabasco         2
+6           Guerrero         2
+7          Chihuahua         2
+8            Sinaloa         1
+9       Quintana Roo         1
+10   Baja California         1
+11        Nuevo León         1
+12           Morelos         1
+13          Veracruz         1
+14            Puebla         1
+2026-07-31 19:43:58 - INFO - ****************************************************************************************************
+2026-07-31 19:43:58 - INFO - Tiempo de ejecución: 00:00:00:08
