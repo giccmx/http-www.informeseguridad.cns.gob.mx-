@@ -1,75 +1,24 @@
-2026-08-10 19:04:58 - INFO - ****************************************************************************************************
-2026-08-10 19:05:07 - INFO - 09 de agosto de 2026
-2026-08-10 19:05:08 - INFO - Total de homicidios del día: 34
-2026-08-10 19:05:08 - INFO - Total de Entidades que reportaron homicidio: 16
-2026-08-10 19:05:08 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_09082026_v2.pdf
-2026-08-10 19:05:08 - INFO - 
+2026-08-11 19:10:51 - INFO - ****************************************************************************************************
+2026-08-11 19:10:59 - INFO - 10 de agosto de 2026
+2026-08-11 19:11:03 - INFO - Total de homicidios del día: 34
+2026-08-11 19:11:03 - INFO - Total de Entidades que reportaron homicidio: 15
+2026-08-11 19:11:03 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_10082026_v2.pdf
+2026-08-11 19:11:03 - INFO - 
            Entidades  Recuento
-0            Sinaloa         4
-1         Guanajuato         3
-2    Baja California         3
+0   Estado De México         5
+1          Chihuahua         4
+2            Jalisco         4
 3           Guerrero         3
-4          Chihuahua         3
-5   Estado De México         3
-6          Michoacán         2
-7            Jalisco         2
-8            Tabasco         2
-9            Morelos         2
-10            Puebla         2
-11        Tamaulipas         1
-12          Coahuila         1
-13  Ciudad De México         1
-14            Oaxaca         1
-15        Nuevo León         1
-2026-08-10 19:05:08 - INFO - ****************************************************************************************************
-2026-08-10 19:05:08 - INFO - 08 de agosto de 2026
-2026-08-10 19:05:09 - INFO - Total de homicidios del día: 35
-2026-08-10 19:05:09 - INFO - Total de Entidades que reportaron homicidio: 20
-2026-08-10 19:05:09 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_08082026_v2.pdf
-2026-08-10 19:05:09 - INFO - 
-           Entidades  Recuento
-0            Sinaloa         3
-1         Tamaulipas         3
-2          Chihuahua         3
-3          Michoacán         3
-4   Estado De México         3
-5             Sonora         2
-6         Guanajuato         2
+4             Oaxaca         3
+5            Sinaloa         2
+6     Aguascalientes         2
 7             Puebla         2
-8           Veracruz         2
-9            Jalisco         2
-10           Hidalgo         1
-11   Baja California         1
-12  Ciudad De México         1
-13           Tabasco         1
-14          Campeche         1
-15          Tlaxcala         1
-16            Colima         1
-17        Nuevo León         1
-18            Oaxaca         1
-19         Querétaro         1
-2026-08-10 19:05:09 - INFO - ****************************************************************************************************
-2026-08-10 19:05:09 - INFO - 07 de agosto de 2026
-2026-08-10 19:05:10 - INFO - Total de homicidios del día: 34
-2026-08-10 19:05:10 - INFO - Total de Entidades que reportaron homicidio: 15
-2026-08-10 19:05:10 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_07082026_v2.pdf
-2026-08-10 19:05:10 - INFO - 
-           Entidades  Recuento
-0          Michoacán         5
-1             Colima         4
-2           Guerrero         3
-3          Chihuahua         3
-4         Guanajuato         3
-5    Baja California         2
-6            Sinaloa         2
-7   Estado De México         2
-8            Tabasco         2
-9         Nuevo León         2
-10  Ciudad De México         2
-11           Jalisco         1
-12           Morelos         1
-13          Coahuila         1
-14          Veracruz         1
-2026-08-10 19:05:10 - INFO - ****************************************************************************************************
-2026-08-10 19:05:10 - INFO - 06 de agosto de 2026
-2026-08-10 19:05:10 - INFO - Tiempo de ejecución: 00:00:00:12
+8   Ciudad De México         2
+9         Guanajuato         2
+10   Baja California         1
+11            Sonora         1
+12           Chiapas         1
+13        Tamaulipas         1
+14            Colima         1
+2026-08-11 19:11:03 - INFO - ****************************************************************************************************
+2026-08-11 19:11:03 - INFO - Tiempo de ejecución: 00:00:00:12
