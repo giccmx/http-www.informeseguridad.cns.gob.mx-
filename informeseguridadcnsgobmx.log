@@ -1,24 +1,4 @@
-2026-08-11 19:10:51 - INFO - ****************************************************************************************************
-2026-08-11 19:10:59 - INFO - 10 de agosto de 2026
-2026-08-11 19:11:03 - INFO - Total de homicidios del día: 34
-2026-08-11 19:11:03 - INFO - Total de Entidades que reportaron homicidio: 15
-2026-08-11 19:11:03 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_10082026_v2.pdf
-2026-08-11 19:11:03 - INFO - 
-           Entidades  Recuento
-0   Estado De México         5
-1          Chihuahua         4
-2            Jalisco         4
-3           Guerrero         3
-4             Oaxaca         3
-5            Sinaloa         2
-6     Aguascalientes         2
-7             Puebla         2
-8   Ciudad De México         2
-9         Guanajuato         2
-10   Baja California         1
-11            Sonora         1
-12           Chiapas         1
-13        Tamaulipas         1
-14            Colima         1
-2026-08-11 19:11:03 - INFO - ****************************************************************************************************
-2026-08-11 19:11:03 - INFO - Tiempo de ejecución: 00:00:00:12
+2026-08-12 19:10:15 - INFO - ****************************************************************************************************
+2026-08-12 19:12:30 - ERROR - HTTPConnectionPool(host='www.informeseguridad.cns.gob.mx', port=80): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPConnection(host='www.informeseguridad.cns.gob.mx', port=80) at 0x7feb7f5b9f30>, 'Connection to www.informeseguridad.cns.gob.mx timed out. (connect timeout=None)'))
+2026-08-12 19:12:30 - ERROR - Ocurrió un error :cannot unpack non-iterable NoneType object
+2026-08-12 19:12:30 - INFO - Tiempo de ejecución: 00:00:02:14
