@@ -1,26 +1,20 @@
-2026-08-13 19:11:15 - INFO - ****************************************************************************************************
-2026-08-13 19:11:21 - INFO - 12 de agosto de 2026
-2026-08-13 19:11:22 - INFO - Total de homicidios del día: 34
-2026-08-13 19:11:22 - INFO - Total de Entidades que reportaron homicidio: 17
-2026-08-13 19:11:22 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_12082026_v2.pdf
-2026-08-13 19:11:22 - INFO - 
+2026-08-14 19:02:34 - INFO - ****************************************************************************************************
+2026-08-14 19:02:40 - INFO - 13 de agosto de 2026
+2026-08-14 19:02:41 - INFO - Total de homicidios del día: 20
+2026-08-14 19:02:41 - INFO - Total de Entidades que reportaron homicidio: 11
+2026-08-14 19:02:41 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13082026_v2.pdf
+2026-08-14 19:02:41 - INFO - 
            Entidades  Recuento
-0         Guanajuato         4
-1    Baja California         4
-2             Oaxaca         4
-3   Estado De México         3
-4          Chihuahua         3
-5           Veracruz         2
-6   Ciudad De México         2
-7             Sonora         2
-8            Jalisco         2
-9            Morelos         1
-10         Michoacán         1
-11           Chiapas         1
-12           Sinaloa         1
-13            Colima         1
-14        Nuevo León         1
-15           Yucatán         1
-16            Puebla         1
-2026-08-13 19:11:22 - INFO - ****************************************************************************************************
-2026-08-13 19:11:22 - INFO - Tiempo de ejecución: 00:00:00:07
+0            Sinaloa         7
+1          Michoacán         2
+2          Chihuahua         2
+3   Estado De México         2
+4           Guerrero         1
+5         Guanajuato         1
+6    Baja California         1
+7            Tabasco         1
+8            Morelos         1
+9             Oaxaca         1
+10            Puebla         1
+2026-08-14 19:02:41 - INFO - ****************************************************************************************************
+2026-08-14 19:02:41 - INFO - Tiempo de ejecución: 00:00:00:06
