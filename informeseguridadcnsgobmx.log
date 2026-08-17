@@ -1,20 +1,60 @@
-2026-08-14 19:02:34 - INFO - ****************************************************************************************************
-2026-08-14 19:02:40 - INFO - 13 de agosto de 2026
-2026-08-14 19:02:41 - INFO - Total de homicidios del día: 20
-2026-08-14 19:02:41 - INFO - Total de Entidades que reportaron homicidio: 11
-2026-08-14 19:02:41 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_13082026_v2.pdf
-2026-08-14 19:02:41 - INFO - 
+2026-08-17 18:48:39 - INFO - ****************************************************************************************************
+2026-08-17 18:48:50 - INFO - 16 de agosto de 2026
+2026-08-17 18:48:51 - INFO - Total de homicidios del día: 43
+2026-08-17 18:48:51 - INFO - Total de Entidades que reportaron homicidio: 17
+2026-08-17 18:48:51 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_16082026_v2.pdf
+2026-08-17 18:48:51 - INFO - 
+           Entidades  Recuento
+0             Colima         7
+1            Morelos         4
+2           Guerrero         4
+3          Michoacán         4
+4         Guanajuato         3
+5            Sinaloa         3
+6             Sonora         2
+7            Jalisco         2
+8    Baja California         2
+9   Estado De México         2
+10         Chihuahua         2
+11          Veracruz         2
+12            Puebla         2
+13           Tabasco         1
+14          Coahuila         1
+15        Tamaulipas         1
+16  Ciudad De México         1
+2026-08-17 18:48:51 - INFO - ****************************************************************************************************
+2026-08-17 18:48:51 - INFO - 15 de agosto de 2026
+2026-08-17 18:48:52 - INFO - Total de homicidios del día: 40
+2026-08-17 18:48:52 - INFO - Total de Entidades que reportaron homicidio: 17
+2026-08-17 18:48:52 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_15082026_v2.pdf
+2026-08-17 18:48:52 - INFO - 
            Entidades  Recuento
 0            Sinaloa         7
-1          Michoacán         2
-2          Chihuahua         2
-3   Estado De México         2
-4           Guerrero         1
-5         Guanajuato         1
-6    Baja California         1
-7            Tabasco         1
-8            Morelos         1
-9             Oaxaca         1
-10            Puebla         1
-2026-08-14 19:02:41 - INFO - ****************************************************************************************************
-2026-08-14 19:02:41 - INFO - Tiempo de ejecución: 00:00:00:06
+1    Baja California         5
+2           Guerrero         5
+3            Jalisco         3
+4          Michoacán         3
+5            Morelos         2
+6   Estado De México         2
+7           Tlaxcala         2
+8            Nayarit         2
+9             Puebla         2
+10         Chihuahua         1
+11           Hidalgo         1
+12            Sonora         1
+13            Colima         1
+14  Ciudad De México         1
+15            Oaxaca         1
+16         Zacatecas         1
+2026-08-17 18:48:52 - INFO - ****************************************************************************************************
+2026-08-17 18:48:52 - INFO - 14 de agosto de 2026
+2026-08-17 18:48:54 - INFO - Total de homicidios del día: 0
+2026-08-17 18:48:54 - INFO - Total de Entidades que reportaron homicidio: 0
+2026-08-17 18:48:54 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_14082026_v2.pdf
+2026-08-17 18:48:54 - INFO - 
+Empty DataFrame
+Columns: [Entidades, Recuento]
+Index: []
+2026-08-17 18:48:54 - INFO - ****************************************************************************************************
+2026-08-17 18:48:54 - INFO - 13 de agosto de 2026
+2026-08-17 18:48:54 - INFO - Tiempo de ejecución: 00:00:00:14
