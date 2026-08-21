@@ -1,25 +1,25 @@
-2026-08-20 18:49:30 - INFO - ****************************************************************************************************
-2026-08-20 18:49:37 - INFO - 19 de agosto de 2026
-2026-08-20 18:49:38 - INFO - Total de homicidios del día: 33
-2026-08-20 18:49:38 - INFO - Total de Entidades que reportaron homicidio: 16
-2026-08-20 18:49:38 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_19082026_v2.pdf
-2026-08-20 18:49:38 - INFO - 
+2026-08-21 18:46:07 - INFO - ****************************************************************************************************
+2026-08-21 18:46:15 - INFO - 20 de agosto de 2026
+2026-08-21 18:46:19 - INFO - Total de homicidios del día: 33
+2026-08-21 18:46:19 - INFO - Total de Entidades que reportaron homicidio: 16
+2026-08-21 18:46:19 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_20082026_v2.pdf
+2026-08-21 18:46:19 - INFO - 
            Entidades  Recuento
-0         Guanajuato         4
-1    Baja California         3
-2             Sonora         3
-3            Morelos         3
-4          Michoacán         2
-5            Chiapas         2
-6          Chihuahua         2
-7            Sinaloa         2
-8   Estado De México         2
-9             Puebla         2
-10          Veracruz         2
-11            Oaxaca         2
-12           Tabasco         1
-13           Jalisco         1
-14        Tamaulipas         1
-15            Colima         1
-2026-08-20 18:49:38 - INFO - ****************************************************************************************************
-2026-08-20 18:49:38 - INFO - Tiempo de ejecución: 00:00:00:07
+0         Guanajuato         6
+1            Sinaloa         6
+2   Estado De México         3
+3           Guerrero         2
+4             Colima         2
+5           Veracruz         2
+6             Puebla         2
+7          Michoacán         2
+8            Chiapas         1
+9             Sonora         1
+10           Jalisco         1
+11   Baja California         1
+12        Nuevo León         1
+13  Ciudad De México         1
+14           Morelos         1
+15           Tabasco         1
+2026-08-21 18:46:19 - INFO - ****************************************************************************************************
+2026-08-21 18:46:19 - INFO - Tiempo de ejecución: 00:00:00:11
