@@ -1,25 +1,28 @@
-2026-08-26 19:54:32 - INFO - ****************************************************************************************************
-2026-08-26 19:54:40 - INFO - 25 de agosto de 2026
-2026-08-26 19:54:40 - INFO - Total de homicidios del día: 46
-2026-08-26 19:54:40 - INFO - Total de Entidades que reportaron homicidio: 16
-2026-08-26 19:54:40 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_25082026_v2.pdf
-2026-08-26 19:54:40 - INFO - 
-           Entidades  Recuento
-0         Guanajuato         9
-1    Baja California         4
-2           Guerrero         4
-3            Tabasco         4
-4   Ciudad De México         4
-5             Puebla         3
-6            Jalisco         2
-7            Sinaloa         2
-8            Morelos         2
-9          Michoacán         2
-10           Chiapas         2
-11         Chihuahua         2
-12  Estado De México         2
-13            Oaxaca         2
-14            Sonora         1
-15          Veracruz         1
-2026-08-26 19:54:40 - INFO - ****************************************************************************************************
-2026-08-26 19:54:40 - INFO - Tiempo de ejecución: 00:00:00:08
+2026-08-28 02:07:18 - INFO - ****************************************************************************************************
+2026-08-28 02:07:25 - INFO - 26 de agosto de 2026
+2026-08-28 02:07:26 - INFO - Total de homicidios del día: 38
+2026-08-28 02:07:26 - INFO - Total de Entidades que reportaron homicidio: 19
+2026-08-28 02:07:26 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_26082026_v2.pdf
+2026-08-28 02:07:26 - INFO - 
+              Entidades  Recuento
+0              Guerrero         4
+1            Guanajuato         3
+2       Baja California         3
+3                Oaxaca         3
+4      Estado De México         3
+5              Veracruz         3
+6   Baja California Sur         2
+7             Chihuahua         2
+8               Jalisco         2
+9             Michoacán         2
+10              Tabasco         2
+11               Colima         2
+12              Chiapas         1
+13              Hidalgo         1
+14              Sinaloa         1
+15               Sonora         1
+16              Morelos         1
+17           Tamaulipas         1
+18               Puebla         1
+2026-08-28 02:07:26 - INFO - ****************************************************************************************************
+2026-08-28 02:07:26 - INFO - Tiempo de ejecución: 00:00:00:08
