@@ -1,71 +1,23 @@
-2026-08-31 22:43:15 - INFO - ****************************************************************************************************
-2026-08-31 22:43:20 - INFO - 30 de agosto de 2026
-2026-08-31 22:43:20 - INFO - Total de homicidios del día: 46
-2026-08-31 22:43:20 - INFO - Total de Entidades que reportaron homicidio: 17
-2026-08-31 22:43:20 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_30082026_v2.pdf
-2026-08-31 22:43:20 - INFO - 
+2026-09-01 20:54:47 - INFO - ****************************************************************************************************
+2026-09-01 20:54:54 - INFO - 31 de agosto de 2026
+2026-09-01 20:54:55 - INFO - Total de homicidios del día: 45
+2026-09-01 20:54:55 - INFO - Total de Entidades que reportaron homicidio: 14
+2026-09-01 20:54:55 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_31082026_v2.pdf
+2026-09-01 20:54:55 - INFO - 
            Entidades  Recuento
-0         Guanajuato         7
-1   Ciudad De México         5
-2   Estado De México         4
-3          Chihuahua         4
-4    Baja California         4
-5          Michoacán         3
-6            Morelos         3
-7            Jalisco         3
-8         Tamaulipas         2
-9            Sinaloa         2
-10           Tabasco         2
-11           Chiapas         2
-12    Aguascalientes         1
-13          Guerrero         1
-14          Veracruz         1
-15            Oaxaca         1
-16         Querétaro         1
-2026-08-31 22:43:20 - INFO - ****************************************************************************************************
-2026-08-31 22:43:20 - INFO - 29 de agosto de 2026
-2026-08-31 22:43:21 - INFO - Total de homicidios del día: 36
-2026-08-31 22:43:21 - INFO - Total de Entidades que reportaron homicidio: 15
-2026-08-31 22:43:21 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_29082026_v2.pdf
-2026-08-31 22:43:21 - INFO - 
-           Entidades  Recuento
-0    Baja California         5
-1          Chihuahua         5
-2            Sinaloa         4
-3   Estado De México         4
-4          Michoacán         3
-5         Guanajuato         3
-6   Ciudad De México         2
-7             Puebla         2
-8           Veracruz         2
-9            Jalisco         1
-10          Guerrero         1
-11           Chiapas         1
-12            Sonora         1
-13           Morelos         1
-14            Oaxaca         1
-2026-08-31 22:43:21 - INFO - ****************************************************************************************************
-2026-08-31 22:43:21 - INFO - 28 de agosto de 2026
-2026-08-31 22:43:21 - INFO - Total de homicidios del día: 37
-2026-08-31 22:43:21 - INFO - Total de Entidades que reportaron homicidio: 15
-2026-08-31 22:43:21 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_28082026_v2.pdf
-2026-08-31 22:43:21 - INFO - 
-           Entidades  Recuento
-0         Guanajuato         6
-1          Michoacán         6
-2    Baja California         4
-3   Estado De México         3
-4         Nuevo León         3
-5            Jalisco         2
-6            Sinaloa         2
-7   Ciudad De México         2
-8            Tabasco         2
-9            Morelos         2
-10          Guerrero         1
+0         Guanajuato        10
+1            Tabasco         5
+2   Estado De México         5
+3            Sinaloa         4
+4    Baja California         3
+5           Guerrero         3
+6             Oaxaca         3
+7            Morelos         3
+8          Michoacán         2
+9             Sonora         2
+10        Tamaulipas         2
 11         Chihuahua         1
-12          Veracruz         1
-13            Colima         1
-14            Oaxaca         1
-2026-08-31 22:43:21 - INFO - ****************************************************************************************************
-2026-08-31 22:43:21 - INFO - 27 de agosto de 2026
-2026-08-31 22:43:21 - INFO - Tiempo de ejecución: 00:00:00:06
+12            Puebla         1
+13         Querétaro         1
+2026-09-01 20:54:55 - INFO - ****************************************************************************************************
+2026-09-01 20:54:55 - INFO - Tiempo de ejecución: 00:00:00:07
