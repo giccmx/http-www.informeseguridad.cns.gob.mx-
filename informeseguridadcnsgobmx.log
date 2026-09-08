@@ -1,3 +1,23 @@
-2026-09-07 21:24:14 - INFO - ****************************************************************************************************
-2026-09-07 21:24:25 - INFO - 31 de agosto de 2026
-2026-09-07 21:24:25 - INFO - Tiempo de ejecución: 00:00:00:10
+2026-09-08 21:00:30 - INFO - ****************************************************************************************************
+2026-09-08 21:00:39 - INFO - 31 de agosto de 2026
+2026-09-08 21:00:40 - INFO - Total de homicidios del día: 45
+2026-09-08 21:00:40 - INFO - Total de Entidades que reportaron homicidio: 14
+2026-09-08 21:00:40 - INFO - Fuente: http://www.informeseguridad.cns.gob.mx/files/homicidios_31082026_v2.pdf
+2026-09-08 21:00:40 - INFO - 
+           Entidades  Recuento
+0         Guanajuato        10
+1            Tabasco         5
+2   Estado De México         5
+3            Sinaloa         4
+4    Baja California         3
+5           Guerrero         3
+6             Oaxaca         3
+7            Morelos         3
+8          Michoacán         2
+9             Sonora         2
+10        Tamaulipas         2
+11         Chihuahua         1
+12            Puebla         1
+13         Querétaro         1
+2026-09-08 21:00:40 - INFO - ****************************************************************************************************
+2026-09-08 21:00:40 - INFO - Tiempo de ejecución: 00:00:00:10
